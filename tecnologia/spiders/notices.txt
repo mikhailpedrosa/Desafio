@@ -1,0 +1,2123 @@
+{"link": null, "title": null}
+{"link": "#mw-head", "title": "Saltar para a navega\u00e7\u00e3o"}
+{"link": "#p-search", "title": "Saltar para a pesquisa"}
+{"link": "/wiki/Ficheiro:Out_of_date_clock_icon.svg", "title": null}
+{"link": "/wiki/Wikip%C3%A9dia:FF", "title": "fontes v\u00e1lidas"}
+{"link": "/wiki/Ficheiro:Avatar-Teaser-Poster.jpg", "title": null}
+{"link": "/wiki/Ficheiro:Poster_-_Gone_With_the_Wind_01.jpg", "title": null}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "/wiki/Gone_with_the_Wind", "title": "Gone with the Wind"}
+{"link": "/wiki/Infla%C3%A7%C3%A3o", "title": "ajuste inflacion\u00e1rio"}
+{"link": "/wiki/Filme", "title": "filme"}
+{"link": "/wiki/Home_video", "title": "vendas de m\u00eddia para o p\u00fablico"}
+{"link": "/wiki/Variety", "title": "Variety"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "/wiki/Filme_de_guerra", "title": "filmes de guerra"}
+{"link": "/wiki/Filme_musical", "title": "musicais"}
+{"link": "/wiki/S%C3%A9culo_XX", "title": "s\u00e9culo XX"}
+{"link": "/wiki/D%C3%A9cada_de_2000", "title": "d\u00e9cada de 2000"}
+{"link": "/wiki/Fantasia_(g%C3%AAnero)", "title": "fantasia"}
+{"link": "/wiki/Harry_Potter", "title": "Harry Potter"}
+{"link": "/wiki/Terra_M%C3%A9dia#Filmes", "title": "Terra M\u00e9dia"}
+{"link": "/wiki/Pirates_of_the_Caribbean_(s%C3%A9rie_de_filmes)", "title": "Pirates of the Caribbean"}
+{"link": "/wiki/Transformers_(franquia)", "title": "Transformers"}
+{"link": "/wiki/Super-her%C3%B3i", "title": "super-her\u00f3is"}
+{"link": "/wiki/Batman#Cinema", "title": "Batman"}
+{"link": "/wiki/Superman", "title": "Superman"}
+{"link": "/wiki/DC_Comics", "title": "DC Comics"}
+{"link": "/wiki/Marvel_Comics", "title": "Marvel"}
+{"link": "/wiki/Homem-Aranha_no_cinema", "title": "Homem-Aranha"}
+{"link": "/wiki/X-Men_(s%C3%A9rie_de_filmes)", "title": "X-Men"}
+{"link": "/wiki/Universo_Cinematogr%C3%A1fico_Marvel", "title": "Universo Cinematogr\u00e1fico Marvel"}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "/wiki/Titanic_(1997)", "title": "Titanic"}
+{"link": "/wiki/James_Cameron", "title": "James Cameron"}
+{"link": "/wiki/Computa%C3%A7%C3%A3o_gr%C3%A1fica", "title": "computa\u00e7\u00e3o gr\u00e1fica"}
+{"link": "/wiki/Zootopia", "title": "Zootopia"}
+{"link": "/wiki/Frozen_(2013)", "title": "Frozen"}
+{"link": "/wiki/Walt_Disney_Animation_Studios", "title": "Walt Disney Animation Studios"}
+{"link": "/wiki/Toy_Story", "title": "Toy Story"}
+{"link": "/wiki/Finding_Nemo", "title": "Finding Nemo"}
+{"link": "/wiki/Up_(filme)", "title": "Up"}
+{"link": "/wiki/Pixar", "title": "Pixar Animation Studios"}
+{"link": "/wiki/The_Walt_Disney_Company", "title": "The Walt Disney Company"}
+{"link": "/wiki/Shrek_(s%C3%A9rie)", "title": "Shrek"}
+{"link": "/wiki/Madagascar_(filme)", "title": "Madagascar"}
+{"link": "/wiki/DreamWorks_Animation", "title": "DreamWorks Animation"}
+{"link": "/wiki/Ice_Age_(s%C3%A9rie_de_filmes)", "title": "Ice Age"}
+{"link": "/wiki/Blue_Sky_Studios", "title": "Blue Sky Studios"}
+{"link": "/wiki/Despicable_Me", "title": "Despicable Me"}
+{"link": "/wiki/Illumination_Entertainment", "title": "Illumination Entertainment"}
+{"link": "/wiki/O_Rei_Le%C3%A3o", "title": "O Rei Le\u00e3o"}
+{"link": "/wiki/Walt_Disney_Pictures", "title": "Walt Disney Pictures"}
+{"link": "/wiki/D%C3%B3lar_dos_Estados_Unidos", "title": "US$"}
+{"link": "/wiki/Infla%C3%A7%C3%A3o", "title": "infla\u00e7\u00e3o"}
+{"link": "/wiki/James_Bond", "title": "James Bond"}
+{"link": "/wiki/Star_Trek", "title": "Star Trek"}
+{"link": "/wiki/Star_Wars", "title": "Star Wars"}
+{"link": "/wiki/D%C3%A9cada_de_1990", "title": "d\u00e9cada de 90"}
+{"link": "/wiki/Star_Wars:_O_Despertar_da_For%C3%A7a", "title": "O Despertar da For\u00e7a"}
+{"link": "/wiki/Gone_with_the_Wind", "title": "Gone with the Wind"}
+{"link": "/wiki/D%C3%B3lar_dos_Estados_Unidos", "title": "d\u00f3lares"}
+{"link": "#Maiores_bilheterias_mundiais", "title": " "}
+{"link": "#Ajustes_pela_infla\u00e7\u00e3o", "title": " "}
+{"link": "#Franquias_com_maiores_bilheterias_mundiais", "title": " "}
+{"link": "#Filmes_mais_vistos_no_Brasil", "title": " "}
+{"link": "#Espectadores", "title": " "}
+{"link": "#Bilheteria", "title": " "}
+{"link": "#Filmes_brasileiros", "title": " "}
+{"link": "#Filmes_mais_vistos_em_Portugal", "title": " "}
+{"link": "#Geral", "title": " "}
+{"link": "#Filmes_portugueses", "title": " "}
+{"link": "#Ver_tamb\u00e9m", "title": " "}
+{"link": "#Notas_e_refer\u00eancias", "title": " "}
+{"link": "#Notas", "title": " "}
+{"link": "#Refer\u00eancias", "title": " "}
+{"link": "#Liga\u00e7\u00f5es_externas", "title": " "}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=1", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=1", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Infla%C3%A7%C3%A3o", "title": "infla\u00e7\u00e3o"}
+{"link": "/wiki/Avengers:_Age_of_Ultron", "title": null}
+{"link": "/wiki/D%C3%B3lar_dos_Estados_Unidos", "title": "US$"}
+{"link": "/wiki/2009_no_cinema", "title": "2009"}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-1", "title": "1"}
+{"link": "/wiki/1997_no_cinema", "title": "1997"}
+{"link": "/wiki/Titanic_(1997)", "title": "Titanic"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-2", "title": "2"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/Star_Wars:_O_Despertar_da_For%C3%A7a", "title": "Star Wars: The Force Awakens"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-3", "title": "3"}
+{"link": "/wiki/2018_no_cinema", "title": "2018"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Avengers: Infinity War"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-4", "title": "4"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/Jurassic_World", "title": "Jurassic World"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-5", "title": "5"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/Os_Vingadores_(2012)", "title": "Marvel's The Avengers"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-6", "title": "6"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/Furious_7", "title": "Furious 7"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-vlz7-7", "title": "7"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/Avengers:_Age_of_Ultron", "title": "Avengers: Age of Ultron"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-mojo-8", "title": "8"}
+{"link": "/wiki/2018_no_cinema", "title": "2018"}
+{"link": "/wiki/Black_Panther_(filme)", "title": "Black Panther"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-9", "title": "9"}
+{"link": "/wiki/2011_no_cinema", "title": "2011"}
+{"link": "/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2", "title": "Harry Potter and the Deathly Hallows \u2013 Part 2"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-hp72-10", "title": "10"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Star_Wars:_Os_%C3%9Altimos_Jedi", "title": "Star Wars: The Last Jedi"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-11", "title": "11"}
+{"link": "/wiki/2018_no_cinema", "title": "2018"}
+{"link": "/wiki/Jurassic_World:_Fallen_Kingdom", "title": "Jurassic World: Fallen Kingdom"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-12", "title": "12"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/Frozen_(2013)", "title": "Frozen"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-frozen-13", "title": "13"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Beauty_and_the_Beast_(2017)", "title": "Beauty and the Beast"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-14", "title": "14"}
+{"link": "/wiki/2018_no_cinema", "title": "2018"}
+{"link": "/wiki/Incredibles_2", "title": "Incredibles 2"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-15", "title": "15"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/The_Fate_of_the_Furious", "title": "The Fate of the Furious"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-16", "title": "16"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/Homem_de_Ferro_3", "title": "Iron Man 3"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-17", "title": "17"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/Minions_(filme)", "title": "Minions"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-18", "title": "18"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Captain_America:_Civil_War", "title": "Captain America: Civil War"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-19", "title": "19"}
+{"link": "/wiki/2011_no_cinema", "title": "2011"}
+{"link": "/wiki/Transformers:_Dark_of_the_Moon", "title": "Transformers: Dark of the Moon"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-20", "title": "20"}
+{"link": "/wiki/2003_no_cinema", "title": "2003"}
+{"link": "/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King", "title": "The Lord of the Rings: The Return of the King"}
+{"link": "/wiki/New_Line_Cinema", "title": "New Line Cinema"}
+{"link": "#cite_note-21", "title": "21"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/Skyfall", "title": "Skyfall"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-22", "title": "22"}
+{"link": "/wiki/2014_no_cinema", "title": "2014"}
+{"link": "/wiki/Transformers:_Age_of_Extinction", "title": "Transformers: Age of Extinction"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-Box_Office_Mojo-23", "title": "23"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/The_Dark_Knight_Rises", "title": "The Dark Knight Rises"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-24", "title": "24"}
+{"link": "/wiki/2010_no_cinema", "title": "2010"}
+{"link": "/wiki/Toy_Story_3", "title": "Toy Story 3"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-toy3-25", "title": "25"}
+{"link": "/wiki/2006_no_cinema", "title": "2006"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest", "title": "Pirates of the Caribbean: Dead Man's Chest"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-26", "title": "26"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Rogue_One:_A_Star_Wars_Story", "title": "Rogue One: A Star Wars Story"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-27", "title": "27"}
+{"link": "/wiki/2011_no_cinema", "title": "2011"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides", "title": "Pirates of the Caribbean: On Stranger Tides"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-28", "title": "28"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Despicable_Me_3", "title": "Despicable Me 3"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-despicableme3-29", "title": "29"}
+{"link": "/wiki/1993_no_cinema", "title": "1993"}
+{"link": "/wiki/Jurassic_Park", "title": "Jurassic Park"}
+{"link": "/wiki/Universal_Studios", "title": "Universal Studios"}
+{"link": "#cite_note-30", "title": "30"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Finding_Dory", "title": "Finding Dory"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-osi-31", "title": "31"}
+{"link": "/wiki/1999_no_cinema", "title": "1999"}
+{"link": "/wiki/Star_Wars_Episode_I:_The_Phantom_Menace", "title": "Star Wars: Episode I - The Phantom Menace"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-32", "title": "32"}
+{"link": "/wiki/2010_no_cinema", "title": "2010"}
+{"link": "/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas_(2010)", "title": null}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-33", "title": "33"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Zootopia", "title": "Zootopia"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-Zoo-34", "title": "34"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/The_Hobbit:_An_Unexpected_Journey", "title": "The Hobbit: An Unexpected Journey"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-35", "title": "35"}
+{"link": "/wiki/2008_no_cinema", "title": "2008"}
+{"link": "/wiki/The_Dark_Knight", "title": "The Dark Knight"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-36", "title": "36"}
+{"link": "/wiki/2001_no_cinema", "title": "2001"}
+{"link": "/wiki/Harry_Potter_e_a_Pedra_Filosofal_(filme)", "title": "Harry Potter and the Philosopher's Stone"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-37", "title": "37"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/Despicable_Me_2", "title": "Despicable Me 2"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-http-38", "title": "38"}
+{"link": "/wiki/1994_no_cinema", "title": "1994"}
+{"link": "/wiki/O_Rei_Le%C3%A3o", "title": "The Lion King"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-leao-39", "title": "39"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/The_Jungle_Book_(2016)", "title": "The Jungle Book"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-tjb-40", "title": "40"}
+{"link": "/wiki/2007_no_cinema", "title": "2007"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_At_World%27s_End", "title": "Pirates of the Caribbean: At World's End"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-41", "title": "41"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Jumanji:_Welcome_to_the_Jungle", "title": "Jumanji: Welcome to the Jungle"}
+{"link": "/wiki/Sony_Pictures_Entertainment", "title": "Sony Pictures Releasing"}
+{"link": "#cite_note-42", "title": "42"}
+{"link": "/wiki/2010_no_cinema", "title": "2010"}
+{"link": "/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1", "title": "Harry Potter and the Deathly Hallows \u2013 Part 1"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-43", "title": "43"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/O_Hobbit:_A_Desola%C3%A7%C3%A3o_de_Smaug", "title": "The Hobbit: The Desolation of Smaug"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros.  Pictures"}
+{"link": "#cite_note-44", "title": "44"}
+{"link": "/wiki/2014_no_cinema", "title": "2014"}
+{"link": "/wiki/O_Hobbit:_A_Batalha_dos_Cinco_Ex%C3%A9rcitos", "title": "The Hobbit: The Battle of the Five Armies"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-45", "title": "45"}
+{"link": "/wiki/2003_no_cinema", "title": "2003"}
+{"link": "/wiki/Finding_Nemo", "title": "Finding Nemo"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-nemo-46", "title": "46"}
+{"link": "/wiki/2007_no_cinema", "title": "2007"}
+{"link": "/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(filme)", "title": "Harry Potter and the Order of the Phoenix"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-47", "title": "47"}
+{"link": "/wiki/2009_no_cinema", "title": "2009"}
+{"link": "/wiki/Harry_Potter_e_o_Enigma_do_Pr%C3%ADncipe_(filme)", "title": "Harry Potter and the Half-Blood Prince"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-48", "title": "48"}
+{"link": "/wiki/2002_no_cinema", "title": "2002"}
+{"link": "/wiki/O_Senhor_dos_An%C3%A9is:_As_Duas_Torres", "title": null}
+{"link": "/wiki/New_Line_Cinema", "title": "New Line Cinema"}
+{"link": "#cite_note-49", "title": "49"}
+{"link": "/wiki/2004_no_cinema", "title": "2004"}
+{"link": "/wiki/Shrek_2", "title": "Shrek 2"}
+{"link": "/wiki/DreamWorks", "title": "DreamWorks Pictures"}
+{"link": "#cite_note-shr2-50", "title": "50"}
+{"link": "/wiki/2005_no_cinema", "title": "2005"}
+{"link": "/wiki/Harry_Potter_e_o_C%C3%A1lice_de_Fogo_(filme)", "title": "Harry Potter and the Goblet of Fire"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-51", "title": "51"}
+{"link": "/wiki/2007_no_cinema", "title": "2007"}
+{"link": "/wiki/Homem-Aranha_3", "title": "Spider-Man 3"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-52", "title": "52"}
+{"link": "/wiki/2009_no_cinema", "title": "2009"}
+{"link": "/wiki/Ice_Age:_Dawn_of_the_Dinosaurs", "title": "Ice Age: Dawn of the Dinosaurs"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-icea3-53", "title": "53"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/SPECTRE_(filme)", "title": "Spectre"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-54", "title": "54"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Spider-Man:_Homecoming", "title": "Spider-Man: Homecoming"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-55", "title": "55"}
+{"link": "/wiki/2002_no_cinema", "title": "2002"}
+{"link": "/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(filme)", "title": "Harry Potter and the Chamber of Secrets"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-icea4-56", "title": "56"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/Ice_Age:_Continental_Drift", "title": "Ice Age: Continental Drift"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-:Aaou-57", "title": "57"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/The_Secret_Life_of_Pets", "title": "The Secret Life of Pets"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-58", "title": "58"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman v Superman: Dawn of Justice"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-59", "title": "59"}
+{"link": "/wiki/2001_no_cinema", "title": "2001"}
+{"link": "/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring", "title": "The Lord of the Rings: The Fellowship of the Ring"}
+{"link": "/wiki/New_Line_Cinema", "title": "New Line Cinema"}
+{"link": "#cite_note-60", "title": "60"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Wolf_Warriors_2", "title": "Wolf Warriors 2"}
+{"link": "#cite_note-61", "title": "61"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/The_Hunger_Games:_Catching_Fire", "title": "The Hunger Games: Catching Fire"}
+{"link": "/wiki/Lions_Gate_Entertainment", "title": "Lionsgate Films"}
+{"link": "#cite_note-62", "title": "62"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Guardi%C3%B5es_da_Gal%C3%A1xia_Vol._2", "title": "Guardians of the Galaxy Vol. 2"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-gotg-63", "title": "63"}
+{"link": "/wiki/2015_no_cinema", "title": "2015"}
+{"link": "/wiki/Inside_Out_(2015)", "title": "Inside Out"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-dmnt-64", "title": "64"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Thor:_Ragnarok", "title": "Thor: Ragnarok"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-65", "title": "65"}
+{"link": "/wiki/2005_no_cinema", "title": "2005"}
+{"link": "/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith", "title": "Star Wars: Episode III - Revenge of the Sith"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-66", "title": "66"}
+{"link": "/wiki/2009_no_cinema", "title": "2009"}
+{"link": "/wiki/Transformers:_Revenge_of_the_Fallen", "title": "Transformers: Revenge of the Fallen"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-67", "title": "67"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2", "title": "The Twilight Saga: Breaking Dawn \u2013 Part 2"}
+{"link": "/wiki/Summit_Entertainment", "title": "Summit Entertainment"}
+{"link": "#cite_note-68", "title": "68"}
+{"link": "/wiki/2010_no_cinema", "title": "2010"}
+{"link": "/wiki/A_Origem", "title": "Inception"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-69", "title": "69"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Mulher-Maravilha_(filme)", "title": "Wonder Woman"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-70", "title": "70"}
+{"link": "/wiki/2002_no_cinema", "title": "2002"}
+{"link": "/wiki/Homem-Aranha_(filme)", "title": "Spider-Man"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-71", "title": "71"}
+{"link": "/wiki/1996_no_cinema", "title": "1996"}
+{"link": "/wiki/Independence_Day", "title": "Independence Day"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-72", "title": "72"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(filme)", "title": "Fantastic Beasts and Where to Find Them"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-73", "title": "73"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Coco_(filme)", "title": "Coco"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-74", "title": "74"}
+{"link": "/wiki/2007_no_cinema", "title": "2007"}
+{"link": "/wiki/Shrek_the_Third", "title": "Shrek the Third"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-75", "title": "75"}
+{"link": "/wiki/2004_no_cinema", "title": "2004"}
+{"link": "/wiki/Harry_Potter_e_o_Prisioneiro_de_Azkaban_(filme)", "title": null}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-76", "title": "76"}
+{"link": "/wiki/2017_no_cinema", "title": "2017"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales", "title": "Pirates of the Caribbean: Dead Men Tell No Tales"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-77", "title": "77"}
+{"link": "/wiki/1982_no_cinema", "title": "1982"}
+{"link": "/wiki/E.T._the_Extra-Terrestrial", "title": "E.T. the Extra-Terrestrial"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-78", "title": "78"}
+{"link": "/wiki/2018_no_cinema", "title": "2018"}
+{"link": "/wiki/Mission:_Impossible_%E2%80%93_Fallout", "title": "Mission: Impossible \u2013 Fallout"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-79", "title": "79"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/Fast_%26_Furious_6", "title": "Fast & Furious 6"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "#cite_note-80", "title": "80"}
+{"link": "/wiki/2008_no_cinema", "title": "2008"}
+{"link": "/wiki/Indiana_Jones_e_o_Reino_da_Caveira_de_Cristal", "title": "Indiana Jones and the Kingdom of the Crystal Skull"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-81", "title": "81"}
+{"link": "/wiki/2004_no_cinema", "title": "2004"}
+{"link": "/wiki/Homem-Aranha_2", "title": null}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-82", "title": "82"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Deadpool_(filme)", "title": "Deadpool"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-83", "title": "83"}
+{"link": "/wiki/1977_no_cinema", "title": "1977"}
+{"link": "/wiki/Star_Wars_(filme)", "title": null}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-84", "title": "84"}
+{"link": "/wiki/2014_no_cinema", "title": "2014"}
+{"link": "/wiki/Guardi%C3%B5es_da_Gal%C3%A1xia_(filme)", "title": "Guardians of the Galaxy"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-85", "title": "85"}
+{"link": "/wiki/2009_no_cinema", "title": "2009"}
+{"link": "/wiki/2012_(filme)", "title": "2012"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-86", "title": "86"}
+{"link": "/wiki/2014_no_cinema", "title": "2014"}
+{"link": "/wiki/Maleficent", "title": "Maleficent"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-87", "title": "87"}
+{"link": "/wiki/2006_no_cinema", "title": "2006"}
+{"link": "/wiki/O_C%C3%B3digo_Da_Vinci_(filme)", "title": "The Da Vinci Code"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-88", "title": "88"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/The_Amazing_Spider-Man_(filme)", "title": "The Amazing Spider-Man"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_note-89", "title": "89"}
+{"link": "/wiki/2014_no_cinema", "title": "2014"}
+{"link": "/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_1", "title": "The Hunger Games: Mockingjay \u2013 Part 1"}
+{"link": "/wiki/Lions_Gate_Entertainment", "title": "Lionsgate Films"}
+{"link": "#cite_note-90", "title": "90"}
+{"link": "/wiki/2010_no_cinema", "title": "2010"}
+{"link": "/wiki/Shrek_para_Sempre", "title": "Shrek Forever After"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-shr4-91", "title": "91"}
+{"link": "/wiki/2014_no_cinema", "title": "2014"}
+{"link": "/wiki/X-Men:_Dias_de_Um_Futuro_Esquecido", "title": "X-Men: Days of Future Past"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-92", "title": "92"}
+{"link": "/wiki/2012_no_cinema", "title": "2012"}
+{"link": "/wiki/Madagascar_3:_Europe%27s_Most_Wanted", "title": "Madagascar 3: Europe's Most Wanted"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-mad3-93", "title": "93"}
+{"link": "/wiki/2016_no_cinema", "title": "2016"}
+{"link": "/wiki/Esquadr%C3%A3o_Suicida_(filme)", "title": "Suicide Squad"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-94", "title": "94"}
+{"link": "/wiki/2005_no_cinema", "title": "2005"}
+{"link": "/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe", "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-95", "title": "95"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/Monsters_University", "title": "Monsters University"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-um-96", "title": "96"}
+{"link": "/wiki/2003_no_cinema", "title": "2003"}
+{"link": "/wiki/The_Matrix_Reloaded", "title": "Matrix Reloaded"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_note-97", "title": "97"}
+{"link": "/wiki/2009_no_cinema", "title": "2009"}
+{"link": "/wiki/Up_(filme)", "title": "Up"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_note-up-98", "title": "98"}
+{"link": "/wiki/2018_no_cinema", "title": "2018"}
+{"link": "/wiki/Deadpool_2", "title": "Deadpool 2"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-99", "title": "99"}
+{"link": "/wiki/2013_no_cinema", "title": "2013"}
+{"link": "/wiki/Gravidade_(filme)", "title": "Gravity"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros.  Pictures"}
+{"link": "#cite_note-100", "title": "100"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=2", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=2", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Infla%C3%A7%C3%A3o", "title": "infla\u00e7\u00e3o"}
+{"link": "/wiki/1910", "title": "1910"}
+{"link": "/wiki/D%C3%A9cada_de_2000", "title": "d\u00e9cada de 2000"}
+{"link": "#cite_note-101", "title": "101"}
+{"link": "/wiki/Moeda", "title": "moedas"}
+{"link": "/wiki/Brasil", "title": "Brasil"}
+{"link": "#cite_note-fallacyfiles-102", "title": "102"}
+{"link": "#cite_note-fallacyfiles-102", "title": "102"}
+{"link": "/wiki/Estados_Unidos", "title": "Estados Unidos"}
+{"link": "/wiki/Guiness_Records", "title": "Guiness Records"}
+{"link": "/wiki/Entertainment_Weekly", "title": "Entertainment Weekly"}
+{"link": "/wiki/Gone_with_the_Wind", "title": "...E o Vento Levou"}
+{"link": "/wiki/1939", "title": "1939"}
+{"link": "/wiki/1970_no_cinema", "title": "1970"}
+{"link": "/wiki/D%C3%B3lar_americano", "title": "d\u00f3lares"}
+{"link": "#cite_note-103", "title": "103"}
+{"link": "/wiki/Cinema", "title": "cinema"}
+{"link": "/wiki/Per_capita", "title": "per capita"}
+{"link": "/wiki/VHS", "title": "VHS"}
+{"link": "/wiki/DVD", "title": "DVD"}
+{"link": "/wiki/Home_theater", "title": "home theater"}
+{"link": "/wiki/1946", "title": "1946"}
+{"link": "/wiki/2004", "title": "2004"}
+{"link": "/wiki/Televis%C3%A3o", "title": "televis\u00e3o"}
+{"link": "#cite_note-waynesthisandthat-104", "title": "104"}
+{"link": "#cite_note-105", "title": "105"}
+{"link": "#cite_note-106", "title": "106"}
+{"link": "/wiki/Atualiza%C3%A7%C3%A3o_monet%C3%A1ria", "title": "(2014 $)"}
+{"link": "/wiki/Gone_with_the_Wind", "title": "Gone with the Wind"}
+{"link": "#cite_note-108", "title": "nota 1"}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "/wiki/Titanic_(1997)", "title": null}
+{"link": "#cite_note-110", "title": "nota 2"}
+{"link": "/wiki/Star_Wars_(filme)", "title": "Star Wars"}
+{"link": "/wiki/The_Sound_of_Music", "title": "The Sound of Music"}
+{"link": "/wiki/E.T._the_Extra-Terrestrial", "title": "E.T. the Extra-Terrestrial"}
+{"link": "/wiki/Os_Dez_Mandamentos_(1956)", "title": "The Ten Commandments"}
+{"link": "/wiki/Doutor_Jivago_(filme)", "title": "Doctor Zhivago"}
+{"link": "/wiki/Tubar%C3%A3o_(filme)", "title": "Jaws"}
+{"link": "#cite_note-The_Force_Awakens-111", "title": "nota 3"}
+{"link": "/wiki/Branca_de_Neve_e_os_Sete_An%C3%B5es_(filme)", "title": "Snow White and the Seven Dwarfs"}
+{"link": "#cite_note-The_Force_Awakens-111", "title": "nota 3"}
+{"link": "#cite_note-112", "title": "nota 4"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=3", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=3", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Infla%C3%A7%C3%A3o", "title": "infla\u00e7\u00e3o"}
+{"link": "/wiki/D%C3%B3lar_dos_Estados_Unidos", "title": "US$"}
+{"link": "/wiki/Universo_Cinematogr%C3%A1fico_Marvel", "title": "Universo Cinematogr\u00e1fico Marvel"}
+{"link": "/wiki/Iron_Man_(filme)", "title": "Iron Man"}
+{"link": "/wiki/The_Incredible_Hulk_(filme)", "title": "The Incredible Hulk"}
+{"link": "/wiki/Iron_Man_2", "title": "Iron Man 2"}
+{"link": "/wiki/Thor_(filme)", "title": "Thor"}
+{"link": "/wiki/Captain_America:_The_First_Avenger", "title": "Captain America: The First Avenger"}
+{"link": "/wiki/Marvel%27s_The_Avengers", "title": "Marvel's The Avengers"}
+{"link": "/wiki/Iron_Man_3", "title": "Iron Man 3"}
+{"link": "/wiki/Thor:_The_Dark_World", "title": "Thor: The Dark World"}
+{"link": "/wiki/Captain_America:_The_Winter_Soldier", "title": "Captain America: The Winter Soldier"}
+{"link": "/wiki/Guardians_of_the_Galaxy_(filme)", "title": "Guardians of the Galaxy"}
+{"link": "/wiki/Avengers:_Age_of_Ultron", "title": "Avengers: Age of Ultron"}
+{"link": "/wiki/Ant-Man_(filme)", "title": "Ant-Man"}
+{"link": "/wiki/Captain_America:_Civil_War", "title": "Captain America: Civil War"}
+{"link": "/wiki/Doctor_Strange_(filme)", "title": "Doctor Strange"}
+{"link": "/wiki/Guardians_of_the_Galaxy_Vol._2", "title": "Guardians of the Galaxy Vol. 2"}
+{"link": "/wiki/Spider-Man:_Homecoming", "title": "Spider-Man: Homecoming"}
+{"link": "/wiki/Thor:_Ragnarok", "title": "Thor: Ragnarok"}
+{"link": "/wiki/Black_Panther_(filme)", "title": "Black Panther"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Avengers: Infinity War"}
+{"link": "/wiki/Homem-Formiga_e_a_Vespa", "title": "Ant-Man and the Wasp"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "#cite_note-mcu-113", "title": "nota 5"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Avengers: Infinity War"}
+{"link": "/wiki/Star_Wars", "title": "Star Wars"}
+{"link": "/wiki/Star_Wars_(filme)", "title": "A New Hope"}
+{"link": "/wiki/Star_Wars:_The_Empire_Strikes_Back", "title": "The Empire Strikes Back"}
+{"link": "/wiki/Star_Wars:_Return_of_the_Jedi", "title": "Return of the Jedi"}
+{"link": "/wiki/Star_Wars_Epis%C3%B3dio_I:_A_Amea%C3%A7a_Fantasma", "title": "The Phantom Menace"}
+{"link": "/wiki/Star_Wars_Epis%C3%B3dio_II:_Ataque_dos_Clones", "title": "Attack of the Clones"}
+{"link": "/wiki/Star_Wars_Epis%C3%B3dio_III:_A_Vingan%C3%A7a_dos_Sith", "title": "Revenge of the Sith"}
+{"link": "/wiki/Star_Wars:_A_Guerra_dos_Clones", "title": "The Clone Wars"}
+{"link": "/wiki/Star_Wars:_O_Despertar_da_For%C3%A7a", "title": "The Force Awakens"}
+{"link": "/wiki/Rogue_One:_A_Star_Wars_Story", "title": "Rogue One"}
+{"link": "/wiki/Star_Wars:_Epis%C3%B3dio_VIII_-_Os_%C3%9Altimos_Jedi", "title": "The Last Jedi"}
+{"link": "/wiki/Solo:_A_Star_Wars_Story", "title": "Solo: A Star Wars Story"}
+{"link": "/wiki/Lucasfilm", "title": "Lucasfilm Ltd."}
+{"link": "#cite_note-114", "title": "nota 6"}
+{"link": "/wiki/Star_Wars:_Epis%C3%B3dio_VII_-_O_Despertar_da_For%C3%A7a", "title": "Star Wars: The Force Awakens"}
+{"link": "/wiki/Harry_Potter_(s%C3%A9rie_de_filmes)", "title": "Mundo Bruxo de J.K. Rowling"}
+{"link": "/wiki/Harry_Potter_e_a_Pedra_Filosofal_(filme)", "title": "Philosopher's Stone"}
+{"link": "/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(filme)", "title": "Chamber of Secrets"}
+{"link": "/wiki/Harry_Potter_e_o_Prisioneiro_de_Azkaban_(filme)", "title": "Prisoner of Azkaban"}
+{"link": "/wiki/Harry_Potter_e_o_C%C3%A1lice_de_Fogo_(filme)", "title": "Goblet of Fire"}
+{"link": "/wiki/Harry_Potter_e_a_Ordem_da_F%C3%AAnix_(filme)", "title": "Order of the Phoenix"}
+{"link": "/wiki/Harry_Potter_and_the_Half-Blood_Prince_(filme)", "title": "Half-Blood Prince"}
+{"link": "/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_1", "title": "Deathly Hallows: Part 1"}
+{"link": "/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_2", "title": "Deathly Hallows: Part 2"}
+{"link": "/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(filme)", "title": "Fantastic Beasts and Where to Find Them"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2", "title": "Harry Potter and the Deathly Hallows \u2013 Part 2"}
+{"link": "/wiki/007", "title": "007"}
+{"link": "/wiki/Dr._No", "title": "Dr. No"}
+{"link": "/wiki/From_Russia_with_Love", "title": "From Russia with Love"}
+{"link": "/wiki/Goldfinger_(filme)", "title": "Goldfinger"}
+{"link": "/wiki/Thunderball", "title": "Thunderball"}
+{"link": "/wiki/You_Only_Live_Twice", "title": "You Only Live Twice"}
+{"link": "/wiki/On_Her_Majesty%27s_Secret_Service", "title": "On Her Majesty's Secret Service"}
+{"link": "/wiki/007_-_Os_Diamantes_S%C3%A3o_Eternos", "title": "Diamonds Are Forever"}
+{"link": "/wiki/Live_and_Let_Die", "title": "Live and Let Die"}
+{"link": "/wiki/The_Man_with_the_Golden_Gun", "title": "The Man with the Golden Gun"}
+{"link": "/wiki/The_Spy_Who_Loved_Me", "title": "The Spy Who Loved Me"}
+{"link": "/wiki/Moonraker", "title": "Moonraker"}
+{"link": "/wiki/For_Your_Eyes_Only", "title": "For Your Eyes Only"}
+{"link": "/wiki/Octopussy", "title": "Octopussy"}
+{"link": "/wiki/A_View_to_a_Kill", "title": "A View to a Kill"}
+{"link": "/wiki/The_Living_Daylights", "title": "The Living Daylights"}
+{"link": "/wiki/Licence_to_Kill", "title": "Licence to Kill"}
+{"link": "/wiki/GoldenEye", "title": "GoldenEye"}
+{"link": "/wiki/007_-_O_Amanh%C3%A3_nunca_Morre", "title": "Tomorrow Never Dies"}
+{"link": "/wiki/The_World_Is_Not_Enough", "title": "The World Is Not Enough"}
+{"link": "/wiki/Die_Another_Day", "title": "Die Another Day"}
+{"link": "/wiki/Casino_Royale_(2006)", "title": "Casino Royale"}
+{"link": "/wiki/007_-_Quantum_of_Solace", "title": "Quantum of Solace"}
+{"link": "/wiki/Skyfall", "title": "Skyfall"}
+{"link": "/wiki/Spectre_(filme)", "title": "Spectre"}
+{"link": "/wiki/Casino_Royale_(1967)", "title": "Casino Royale (1967)"}
+{"link": "/wiki/Never_Say_Never_Again", "title": "Never Say Never Again"}
+{"link": "/wiki/Eon_Productions", "title": "Eon Productions"}
+{"link": "/wiki/United_Artists", "title": "United Artists"}
+{"link": "/wiki/MGM", "title": "MGM"}
+{"link": "#cite_note-115", "title": "nota 7"}
+{"link": "/wiki/Skyfall", "title": "Skyfall"}
+{"link": "/wiki/Terra-M%C3%A9dia", "title": "Terra-M\u00e9dia"}
+{"link": "/wiki/O_Senhor_dos_An%C3%A9is_(s%C3%A9rie_de_filmes)", "title": "O Senhor dos An\u00e9is"}
+{"link": "/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring", "title": "The Fellowship of the Ring"}
+{"link": "/wiki/The_Lord_of_the_Rings:_The_Two_Towers", "title": "The Two Towers"}
+{"link": "/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King", "title": "The Return of the King"}
+{"link": "/wiki/O_Hobbit_(s%C3%A9rie_de_filmes)", "title": "O Hobbit"}
+{"link": "/wiki/The_Hobbit:_An_Unexpected_Journey", "title": "An Unexpected Journey"}
+{"link": "/wiki/The_Hobbit:_The_Desolation_of_Smaug", "title": "The Desolation of Smaug"}
+{"link": "/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies", "title": "The Battle of the Five Armies"}
+{"link": "/wiki/New_Line_Cinema", "title": "New Line Cinema"}
+{"link": "#cite_note-116", "title": "nota 8"}
+{"link": "/wiki/O_Senhor_dos_An%C3%A9is:_O_Retorno_do_Rei", "title": "The Lord of the Rings: The Return of the King"}
+{"link": "/wiki/X-Men_(s%C3%A9rie_de_filmes)", "title": "X-Men"}
+{"link": "/wiki/X-Men:_O_Filme", "title": "X-Men"}
+{"link": "/wiki/X-Men_2", "title": "X-Men 2"}
+{"link": "/wiki/X-Men:_The_Last_Stand", "title": "X-Men: The Last Stand"}
+{"link": "/wiki/X-Men_Origins:_Wolverine", "title": "X-Men Origins: Wolverine"}
+{"link": "/wiki/X-Men:_First_Class", "title": "X-Men: First Class"}
+{"link": "/wiki/The_Wolverine", "title": "The Wolverine"}
+{"link": "/wiki/X-Men:_Days_of_Future_Past", "title": "X-Men: Days of Future Past"}
+{"link": "/wiki/Deadpool_(filme)", "title": "Deadpool"}
+{"link": "/wiki/X-Men:_Apocalypse", "title": "X-Men: Apocalypse"}
+{"link": "/wiki/Logan_(filme)", "title": "Logan"}
+{"link": "/wiki/Deadpool_2", "title": "Deadpool 2"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Deadpool_(filme)", "title": "Deadpool"}
+{"link": "/wiki/The_Fast_and_the_Furious_(franquia)", "title": "The Fast and the Furious"}
+{"link": "/wiki/The_Fast_and_the_Furious", "title": "The Fast and the Furious"}
+{"link": "/wiki/2_Fast_2_Furious", "title": "2 Fast 2 Furious"}
+{"link": "/wiki/The_Fast_and_the_Furious:_Tokyo_Drift", "title": "The Fast and the Furious: Tokyo Drift"}
+{"link": "/wiki/Fast_%26_Furious", "title": "Fast & Furious"}
+{"link": "/wiki/Fast_Five", "title": "Fast Five"}
+{"link": "/wiki/Fast_%26_Furious_6", "title": "Fast & Furious 6"}
+{"link": "/wiki/Furious_7", "title": "Furious 7"}
+{"link": "/wiki/The_Fate_of_the_Furious", "title": "The Fate of the Furious"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "/wiki/Furious_7", "title": "Furious 7"}
+{"link": "/wiki/Batman_(s%C3%A9rie_de_filmes)", "title": "Batman"}
+{"link": "/wiki/Batman_(1989)", "title": "Batman (1989)"}
+{"link": "/wiki/Batman_Returns", "title": "Returns"}
+{"link": "/wiki/Batman_Forever", "title": "Forever"}
+{"link": "/wiki/Batman_%26_Robin_(filme)", "title": "Batman & Robin"}
+{"link": "/wiki/Batman_Begins", "title": "Batman Begins"}
+{"link": "/wiki/The_Dark_Knight", "title": "The Dark Knight"}
+{"link": "/wiki/The_Dark_Knight_Rises", "title": "The Dark Knight Rises"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman v Superman: Dawn of Justice"}
+{"link": "/wiki/Batman:_A_Piada_Mortal_(filme)", "title": "The Killing Joke"}
+{"link": "/wiki/The_Lego_Batman_Movie", "title": "The Lego Batman Movie"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/The_Dark_Knight_Rises", "title": "The Dark Knight Rises"}
+{"link": "/wiki/Jurassic_Park_(franquia)", "title": "Jurassic Park"}
+{"link": "/wiki/Jurassic_Park_(filme)", "title": "Jurassic Park"}
+{"link": "/wiki/The_Lost_World:_Jurassic_Park", "title": "The Lost World: Jurassic Park"}
+{"link": "/wiki/Jurassic_Park_III", "title": "Jurassic Park III"}
+{"link": "/wiki/Jurassic_World", "title": "Jurassic World"}
+{"link": "/wiki/Jurassic_World:_Fallen_Kingdom", "title": "Jurassic World: Fallen Kingdom"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "/wiki/Jurassic_World", "title": "Jurassic World"}
+{"link": "/wiki/Homem-Aranha_no_cinema", "title": "Homem-Aranha"}
+{"link": "/wiki/Homem-Aranha_(filme)", "title": "Spider-Man"}
+{"link": "/wiki/Homem-Aranha_2", "title": "Spider-Man 2"}
+{"link": "/wiki/Homem-Aranha_3", "title": "Spider-Man 3"}
+{"link": "/wiki/The_Amazing_Spider-Man_(filme)", "title": "The Amazing Spider-Man"}
+{"link": "/wiki/The_Amazing_Spider-Man_2_(filme)", "title": "Rise of Electro"}
+{"link": "/wiki/Spider-Man:_Homecoming", "title": "Homecoming"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "/wiki/Homem-Aranha_3", "title": "Spider-Man 3"}
+{"link": "/wiki/Pirates_of_the_Caribbean_(s%C3%A9rie)", "title": "Pirates of the Caribbean"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl", "title": "The Curse of the Black Pearl"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest", "title": "Dead Man's Chest"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_At_World%27s_End", "title": "At World's End"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides", "title": "On Stranger Tides"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales", "title": "Dead Men Tell No Tales"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest", "title": "Pirates of the Caribbean: Dead Man's Chest"}
+{"link": "/wiki/Transformers", "title": "Transformers"}
+{"link": "/wiki/Transformers_(filme)", "title": "Transformers"}
+{"link": "/wiki/Transformers:_Revenge_of_the_Fallen", "title": "Revenge of the Fallen"}
+{"link": "/wiki/Transformers:_Dark_of_the_Moon", "title": "Dark of the Moon"}
+{"link": "/wiki/Transformers:_Age_of_Extinction", "title": "Age of Extinction"}
+{"link": "/wiki/Transformers:_The_Last_Knight", "title": "The Last Knight"}
+{"link": "/wiki/Hasbro_Studios", "title": "Hasbro Studios"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/Transformers:_Dark_of_the_Moon", "title": "Transformers: Dark of the Moon"}
+{"link": "/wiki/Universo_Estendido_da_DC", "title": "Universo Estendido da DC"}
+{"link": "/wiki/Man_of_Steel_(filme)", "title": null}
+{"link": "/wiki/Batman_vs_Superman:_A_Origem_da_Justi%C3%A7a", "title": null}
+{"link": "/wiki/Esquadr%C3%A3o_Suicida_(filme)", "title": null}
+{"link": "/wiki/Mulher-Maravilha_(filme)", "title": "Wonder Woman"}
+{"link": "/wiki/Justice_League_(filme)", "title": null}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman v Superman: Dawn of Justice"}
+{"link": "/wiki/Despicable_Me", "title": "Despicable Me"}
+{"link": "/wiki/Despicable_Me", "title": "Despicable Me"}
+{"link": "/wiki/Despicable_Me_2", "title": "Despicable Me 2"}
+{"link": "/wiki/Minions_(filme)", "title": "Minions"}
+{"link": "/wiki/Despicable_Me_3", "title": "Despicable Me 3"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "/wiki/Illumination_Entertainment", "title": "Illumination Entertainment"}
+{"link": "/wiki/Minions_(filme)", "title": "Minions"}
+{"link": "/wiki/Mission:_Impossible_(filme)", "title": "Mission: Impossible"}
+{"link": "/wiki/Miss%C3%A3o_Imposs%C3%ADvel", "title": "Mission: Impossible"}
+{"link": "/wiki/Mission:_Impossible_II", "title": "Mission: Impossible II"}
+{"link": "/wiki/Miss%C3%A3o_Imposs%C3%ADvel_III", "title": "Mission: Impossible III"}
+{"link": "/wiki/Mission:_Impossible_%E2%80%93_Ghost_Protocol", "title": "Mission: Impossible \u2013 Ghost Protocol"}
+{"link": "/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation", "title": "Mission: Impossible \u2013 Rogue Nation"}
+{"link": "/wiki/Mission:_Impossible_%E2%80%93_Fallout", "title": "Mission: Impossible \u2013 Fallout"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/Mission:_Impossible_%E2%80%93_Fallout", "title": "Mission: Impossible \u2013 Fallout"}
+{"link": "/wiki/Shrek", "title": "Shrek"}
+{"link": "/wiki/Shrek", "title": "Shrek"}
+{"link": "/wiki/Shrek_2", "title": "Shrek 2"}
+{"link": "/wiki/Shrek_the_Third", "title": "Shrek the Third"}
+{"link": "/wiki/Shrek_Forever_After", "title": "Shrek Forever After"}
+{"link": "/wiki/O_Gato_de_Botas_(2011)", "title": "Puss in Boots"}
+{"link": "/wiki/DreamWorks_Animation", "title": "DreamWorks Animation"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/Shrek_2", "title": "Shrek 2"}
+{"link": "/wiki/Twilight_(s%C3%A9rie)", "title": "The Twilight Saga"}
+{"link": "/wiki/Twilight_(filme)", "title": "Twilight"}
+{"link": "/wiki/New_Moon_(filme)", "title": "New Moon"}
+{"link": "/wiki/Eclipse_(filme)", "title": "Eclipse"}
+{"link": "/wiki/Amanhecer:_Parte_1", "title": "Breaking Dawn: Part 1"}
+{"link": "/wiki/Amanhecer:_Parte_2", "title": "Breaking Dawn: Part 2"}
+{"link": "/wiki/Summit_Entertainment", "title": "Summit Entertainment"}
+{"link": "/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2", "title": "The Twilight Saga: Breaking Dawn \u2013 Part 2"}
+{"link": "/wiki/Ice_Age_(s%C3%A9rie_de_filmes)", "title": "Ice Age"}
+{"link": "/wiki/Ice_Age", "title": "Ice Age"}
+{"link": "/wiki/Ice_Age:_The_Meltdown", "title": "The Meltdown"}
+{"link": "/wiki/Ice_Age:_Dawn_of_the_Dinosaurs", "title": "Dawn of the Dinosaurs"}
+{"link": "/wiki/Ice_Age:_Continental_Drift", "title": "Continental Drift"}
+{"link": "/wiki/Ice_Age:_Collision_Course", "title": "Collision Course"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Blue_Sky_Studios", "title": "Blue Sky Studios"}
+{"link": "/wiki/Ice_Age:_Dawn_of_the_Dinosaurs", "title": "Ice Age: Dawn of the Dinosaurs"}
+{"link": "/wiki/The_Hunger_Games", "title": "The Hunger Games"}
+{"link": "/wiki/The_Hunger_Games", "title": "The Hunger Games"}
+{"link": "/wiki/The_Hunger_Games:_Catching_Fire", "title": "Catching Fire"}
+{"link": "/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_1", "title": "Mockingjay - Part 1"}
+{"link": "/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_2", "title": "Mockingjay - Part 2"}
+{"link": "/wiki/Lions_Gate_Entertainment", "title": "Lions Gate Entertainment"}
+{"link": "/wiki/The_Hunger_Games:_Catching_Fire", "title": "The Hunger Games: Catching Fire"}
+{"link": "/wiki/Superman", "title": "Superman"}
+{"link": "/wiki/Superman_(filme)", "title": "Superman"}
+{"link": "/wiki/Superman_II", "title": "Superman II"}
+{"link": "/wiki/Superman_III", "title": "Superman III"}
+{"link": "/wiki/Supergirl_(filme)", "title": "Supergirl"}
+{"link": "/wiki/Superman_IV:_The_Quest_for_Peace", "title": "Superman IV: The Quest for Peace"}
+{"link": "/wiki/Superman_Returns", "title": "Superman Returns"}
+{"link": "/wiki/Man_of_Steel_(filme)", "title": "Man of Steel"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman v Superman: Dawn of Justice"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman v Superman: Dawn of Justice"}
+{"link": "/wiki/Planeta_dos_Macacos", "title": "Planet of the Apes"}
+{"link": "/wiki/Planet_of_the_Apes_(1968)", "title": "Planet of the Apes (1968)"}
+{"link": "/wiki/Beneath_the_Planet_of_the_Apes", "title": "Beneath the Planet of the Apes"}
+{"link": "/wiki/Escape_from_the_Planet_of_the_Apes", "title": "Escape from the Planet of the Apes"}
+{"link": "/wiki/Conquest_of_the_Planet_of_the_Apes", "title": "Conquest of the Planet of the Apes"}
+{"link": "/wiki/Battle_for_the_Planet_of_the_Apes", "title": "Battle for the Planet of the Apes"}
+{"link": "/wiki/Planet_of_the_Apes_(2001)", "title": "Planet of the Apes (2001)"}
+{"link": "/wiki/Rise_of_the_Planet_of_the_Apes", "title": "Rise of the Planet of the Apes"}
+{"link": "/wiki/Dawn_of_the_Planet_of_the_Apes", "title": "Dawn of the Planet of the Apes"}
+{"link": "/wiki/War_for_the_Planet_of_the_Apes", "title": "War for the Planet of the Apes"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Dawn_of_the_Planet_of_the_Apes", "title": "Dawn of the Planet of the Apes"}
+{"link": "/wiki/Star_Trek", "title": "Star Trek"}
+{"link": "/wiki/Star_Trek:_The_Motion_Picture", "title": "Star Trek: The Motion Picture"}
+{"link": "/wiki/Star_Trek_II:_The_Wrath_of_Khan", "title": "The Wrath of Khan"}
+{"link": "/wiki/Star_Trek_III:_The_Search_for_Spock", "title": "The Search for Spock"}
+{"link": "/wiki/Star_Trek_IV:_The_Voyage_Home", "title": "The Voyage Home"}
+{"link": "/wiki/Star_Trek_V:_The_Final_Frontier", "title": "The Final Frontier"}
+{"link": "/wiki/Star_Trek_VI:_The_Undiscovered_Country", "title": "The Undiscovered Country"}
+{"link": "/wiki/Star_Trek_Generations", "title": "Generations"}
+{"link": "/wiki/Star_Trek:_First_Contact", "title": "First Contact"}
+{"link": "/wiki/Star_Trek:_Insurrection", "title": "Insurrection"}
+{"link": "/wiki/Star_Trek_Nemesis", "title": "Nemesis"}
+{"link": "/wiki/Star_Trek_(filme)", "title": "Star Trek"}
+{"link": "/wiki/Al%C3%A9m_da_Escurid%C3%A3o_-_Star_Trek", "title": "Into Darkness"}
+{"link": "/wiki/Star_Trek_Beyond", "title": "Beyond"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/Al%C3%A9m_da_Escurid%C3%A3o_-_Star_Trek", "title": "Star Trek Into Darkness"}
+{"link": "/wiki/Madagascar_(franquia)", "title": "Madagascar"}
+{"link": "/wiki/Madagascar_(filme)", "title": "Madagascar"}
+{"link": "/wiki/Madagascar:_Escape_2_Africa", "title": "Escape 2 Africa"}
+{"link": "/wiki/Madagascar_3:_Europe%27s_Most_Wanted", "title": "Europe's Most Wanted"}
+{"link": "/wiki/Penguins_of_Madagascar", "title": "Penguins of Madagascar"}
+{"link": "/wiki/DreamWorks_Animation", "title": "DreamWorks Animation"}
+{"link": "#cite_note-DW-117", "title": "nota 9"}
+{"link": "/wiki/Madagascar_3:_Europe%27s_Most_Wanted", "title": "Madagascar 3: Europe's Most Wanted"}
+{"link": "/wiki/Indiana_Jones", "title": "Indiana Jones"}
+{"link": "/wiki/Raiders_of_the_Lost_Ark", "title": "Raiders of the Lost Ark"}
+{"link": "/wiki/Indiana_Jones_and_the_Temple_of_Doom", "title": "Temple of Doom"}
+{"link": "/wiki/Indiana_Jones_and_the_Last_Crusade", "title": "Last Crusade"}
+{"link": "/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull", "title": "Kingdom of the Crystal Skull"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/Indiana_Jones_e_o_Reino_da_Caveira_de_Cristal", "title": "Indiana Jones and the Kingdom of the Crystal Skull"}
+{"link": "/wiki/Toy_Story", "title": "Toy Story"}
+{"link": "/wiki/Toy_Story", "title": "Toy Story"}
+{"link": "/wiki/Toy_Story_2", "title": "Toy Story 2"}
+{"link": "/wiki/Toy_Story_3", "title": "Toy Story 3"}
+{"link": "/wiki/Pixar_Animation_Studios", "title": "Pixar Animation Studios"}
+{"link": "/wiki/Toy_Story_3", "title": "Toy Story 3"}
+{"link": "/wiki/Finding_Nemo", "title": "Finding Nemo"}
+{"link": "/wiki/Finding_Nemo", "title": "Finding Nemo"}
+{"link": "/wiki/Finding_Dory", "title": "Finding Dory"}
+{"link": "/wiki/Pixar_Animation_Studios", "title": "Pixar Animation Studios"}
+{"link": "/wiki/Finding_Dory", "title": "Finding Dory"}
+{"link": "/wiki/The_Incredibles", "title": "The Incredibles"}
+{"link": "/wiki/The_Incredibles", "title": "The Incredibles"}
+{"link": "/wiki/Incredibles_2", "title": "Incredibles 2"}
+{"link": "/wiki/Pixar_Animation_Studios", "title": "Pixar Animation Studios"}
+{"link": "/wiki/Incredibles_2", "title": "Incredibles 2"}
+{"link": "/wiki/Terminator", "title": "Terminator"}
+{"link": "/wiki/The_Terminator", "title": "The Terminator"}
+{"link": "/wiki/Terminator_2:_Judgment_Day", "title": "Terminator 2: Judgment Day"}
+{"link": "/wiki/Terminator_3:_Rise_of_the_Machines", "title": "Terminator 3: Rise of the Machines"}
+{"link": "/wiki/Terminator_Salvation", "title": "Terminator Salvation"}
+{"link": "/wiki/Terminator:_Genisys", "title": "Terminator: Genisys"}
+{"link": "/wiki/Orion_Pictures", "title": "Orion Pictures"}
+{"link": "/wiki/TriStar_Pictures", "title": "TriStar Pictures"}
+{"link": "/wiki/Warner_Bros.", "title": "Warner Bros."}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_note-118", "title": "nota 10"}
+{"link": "/wiki/Terminator_2:_Judgment_Day", "title": "Terminator 2: Judgment Day"}
+{"link": "/wiki/Kung_Fu_Panda", "title": "Kung Fu Panda"}
+{"link": "/wiki/Kung_Fu_Panda", "title": "Kung Fu Panda"}
+{"link": "/wiki/Kung_Fu_Panda_2", "title": "Kung Fu Panda 2"}
+{"link": "/wiki/Kung_Fu_Panda_3", "title": "Kung Fu Panda 3"}
+{"link": "/wiki/DreamWorks_Animation", "title": "DreamWorks Animation"}
+{"link": "#cite_note-DW-117", "title": "nota 9"}
+{"link": "/wiki/Kung_Fu_Panda_2", "title": "Kung Fu Panda 2"}
+{"link": "/wiki/Cars_(filme)", "title": "Carros"}
+{"link": "/wiki/Planes_(filme)", "title": "Avi\u00f5es"}
+{"link": "/wiki/Cars_(filme)", "title": "Cars"}
+{"link": "/wiki/Cars_2", "title": "Cars 2"}
+{"link": "/wiki/Cars_3", "title": "Cars 3"}
+{"link": "/wiki/Avi%C3%B5es_(filme)", "title": " Planes"}
+{"link": "/wiki/Avi%C3%B5es_2:_Her%C3%B3is_do_Fogo_ao_Resgate", "title": "Planes: Fire & Rescue"}
+{"link": "/wiki/Pixar_Animation_Studios", "title": "Pixar Animation Studios"}
+{"link": "/wiki/DisneyToon", "title": "DisneyToon"}
+{"link": "#cite_note-119", "title": "nota 11"}
+{"link": "/wiki/Carros_2", "title": "Cars 2"}
+{"link": "/wiki/Men_in_Black", "title": "Men in Black"}
+{"link": "/wiki/Men_in_Black", "title": "Men in Black"}
+{"link": "/wiki/Men_in_Black_II", "title": "Men in Black II"}
+{"link": "/wiki/Men_in_Black_III", "title": "Men in Black III"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "/wiki/Men_in_Black_III", "title": "Men in Black III"}
+{"link": "/wiki/Alien", "title": "Alien"}
+{"link": "/wiki/Alien", "title": "Alien"}
+{"link": "/wiki/Aliens_(filme)", "title": "Aliens"}
+{"link": "/wiki/Alien_3", "title": "Alien 3"}
+{"link": "/wiki/Alien_Resurrection", "title": "Alien Resurrection"}
+{"link": "/wiki/Alien_vs._Predator", "title": "Alien vs. Predator"}
+{"link": "/wiki/Aliens_vs._Predator:_Requiem", "title": "Aliens vs. Predator: Requiem"}
+{"link": "/wiki/Prometheus_(filme)", "title": "Prometheus"}
+{"link": "/wiki/Alien:_Covenant", "title": "Alien: Covenant"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Prometheus_(filme)", "title": "Prometheus"}
+{"link": "/wiki/Jason_Bourne", "title": "Bourne"}
+{"link": "/wiki/The_Bourne_Identity", "title": "The Bourne Identity"}
+{"link": "/wiki/The_Bourne_Supremacy", "title": "The Bourne Supremacy"}
+{"link": "/wiki/The_Bourne_Ultimatum", "title": "The Bourne Ultimatum"}
+{"link": "/wiki/The_Bourne_Legacy", "title": "The Bourne Legacy"}
+{"link": "/wiki/Jason_Bourne_(filme)", "title": "Jason Bourne"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "/wiki/The_Bourne_Ultimatum", "title": "The Bourne Ultimatum"}
+{"link": "/wiki/Matrix", "title": "Matrix"}
+{"link": "/wiki/The_Matrix", "title": "The Matrix"}
+{"link": "/wiki/The_Matrix_Reloaded", "title": "Reloaded"}
+{"link": "/wiki/The_Matrix_Revolutions", "title": "Revolutions"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/Matrix_Reloaded", "title": "Matrix Reloaded"}
+{"link": "/wiki/The_Chronicles_of_Narnia_(s%C3%A9rie_cinematogr%C3%A1fica)", "title": "As Cr\u00f4nicas de N\u00e1rnia"}
+{"link": "/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe", "title": "The Lion, the Witch and the Wardrobe"}
+{"link": "/wiki/The_Chronicles_of_Narnia:_Prince_Caspian", "title": "Prince Caspian"}
+{"link": "/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader", "title": "The Voyage of the Dawn Treader"}
+{"link": "/wiki/Walden_Media", "title": "Walden Media"}
+{"link": "#cite_note-120", "title": "nota 12"}
+{"link": "/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe", "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"}
+{"link": "/wiki/The_Conjuring_(franquia)", "title": "Universo The Conjuring"}
+{"link": "/wiki/The_Conjuring", "title": "The Conjuring"}
+{"link": "/wiki/Annabelle_(filme)", "title": "Annabelle"}
+{"link": "/wiki/The_Conjuring_2", "title": "The Conjuring 2"}
+{"link": "/wiki/Annabelle:_Creation", "title": "Annabelle: Creation"}
+{"link": "/wiki/The_Nun", "title": "The Nun"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/The_Nun", "title": "The Nun"}
+{"link": "/wiki/Robert_Langdon", "title": "Robert Langdon"}
+{"link": "/wiki/O_C%C3%B3digo_Da_Vinci_(filme)", "title": "The Da Vinci Code"}
+{"link": "/wiki/Angels_%26_Demons_(filme)", "title": "Angels & Demons"}
+{"link": "/wiki/Inferno_(filme_de_2016)", "title": "Inferno"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "/wiki/O_C%C3%B3digo_Da_Vinci_(filme)", "title": "The Da Vinci Code"}
+{"link": "/wiki/Rocky_(s%C3%A9rie)", "title": "Rocky"}
+{"link": "/wiki/Rocky", "title": "Rocky"}
+{"link": "/wiki/Rocky_II", "title": "Rocky II"}
+{"link": "/wiki/Rocky_III", "title": "Rocky III"}
+{"link": "/wiki/Rocky_IV", "title": "Rocky IV"}
+{"link": "/wiki/Rocky_V", "title": "Rocky V"}
+{"link": "/wiki/Rocky_Balboa", "title": "Rocky Balboa"}
+{"link": "/wiki/Creed_(filme)", "title": "Creed"}
+{"link": "/wiki/MGM", "title": "MGM"}
+{"link": "/wiki/United_Artists", "title": "United Artists"}
+{"link": "/wiki/Rocky_IV", "title": "Rocky IV"}
+{"link": "/wiki/Die_Hard", "title": "Die Hard"}
+{"link": "/wiki/Die_Hard", "title": "Die Hard"}
+{"link": "/wiki/Die_Hard_2", "title": "Die Hard 2"}
+{"link": "/wiki/Die_Hard_with_a_Vengeance", "title": "Die Hard with a Vengeance"}
+{"link": "/wiki/Live_Free_or_Die_Hard", "title": "Live Free or Die Hard"}
+{"link": "/wiki/A_Good_Day_to_Die_Hard", "title": "A Good Day to Die Hard"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_note-121", "title": "nota 13"}
+{"link": "/wiki/Live_Free_or_Die_Hard", "title": "Live Free or Die Hard"}
+{"link": "/wiki/Ocean%27s_Eleven", "title": "Ocean's"}
+{"link": "/wiki/Ocean%27s_Eleven", "title": "Ocean's Eleven"}
+{"link": "/wiki/Ocean%27s_Twelve", "title": "Ocean's Twelve"}
+{"link": "/wiki/Ocean%27s_Thirteen", "title": "Ocean's Thirteen"}
+{"link": "/wiki/Ocean%27s_8", "title": "Ocean's 8"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/Ocean%27s_Eleven", "title": "Ocean's Eleven"}
+{"link": "/wiki/The_Hangover_(franquia)", "title": "The Hangover"}
+{"link": "/wiki/The_Hangover", "title": "The Hangover"}
+{"link": "/wiki/The_Hangover_Part_II", "title": "The Hangover Part II"}
+{"link": "/wiki/The_Hangover_Part_III", "title": "The Hangover Part III"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/The_Hangover_Part_II", "title": "The Hangover Part II"}
+{"link": "/wiki/A_M%C3%BAmia_(franquia)", "title": "A M\u00famia"}
+{"link": "/wiki/A_M%C3%BAmia_(filme_de_1999)", "title": "The Mummy"}
+{"link": "/wiki/The_Mummy_Returns", "title": "The Mummy Returns"}
+{"link": "/wiki/The_Mummy:_Tomb_of_the_Dragon_Emperor", "title": "The Mummy: Tomb of the Dragon Emperor"}
+{"link": "/wiki/The_Scorpion_King", "title": "The Scorpion King"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "/wiki/The_Mummy_Returns", "title": "The Mummy Returns"}
+{"link": "/wiki/Alvin_and_the_Chipmunks", "title": "Alvin e os Esquilos"}
+{"link": "/wiki/Alvin_and_the_Chipmunks", "title": "Alvin and the Chipmunks"}
+{"link": "/wiki/Alvin_and_the_Chipmunks:_The_Squeakquel", "title": "The Squeakquel"}
+{"link": "/wiki/Alvin_and_the_Chipmunks_3:_Chipwrecked", "title": "Chipwrecked"}
+{"link": "/wiki/Alvin_and_the_Chipmunks:_The_Road_Chip", "title": "The Road Chip"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Alvin_e_os_Esquilos_2", "title": "Alvin and the Chipmunks: The Squeakquel"}
+{"link": "/wiki/Hotel_Transylvania_(franquia)", "title": "Hotel Transylvania"}
+{"link": "/wiki/Hotel_Transylvania", "title": "Hotel Transylvania"}
+{"link": "/wiki/Hotel_Transylvania_2", "title": "Hotel Transylvania 2"}
+{"link": "/wiki/Hotel_Transylvania_3:_Summer_Vacation", "title": "Hotel Transylvania 3: Summer Vacation"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "/wiki/Hotel_Transylvania_3:_Summer_Vacation", "title": "Hotel Transylvania 3: Summer Vacation"}
+{"link": "/wiki/Night_at_the_Museum", "title": "Night at the Museum"}
+{"link": "/wiki/Night_at_the_Museum", "title": "Night at the Museum"}
+{"link": "/wiki/Night_at_the_Museum:_Battle_of_the_Smithsonian", "title": " Battle of the Smithsonian"}
+{"link": "/wiki/Night_at_the_Museum:_Secret_of_the_Tomb", "title": "Secret of the Tomb"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Night_at_the_Museum", "title": "Night at the Museum"}
+{"link": "/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas_(2010)", "title": "Alice"}
+{"link": "/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas_(2010)", "title": "Alice in Wonderland"}
+{"link": "/wiki/Alice:_Through_the_Looking_Glass", "title": "Alice: Through the Looking Glass"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "/wiki/Alice_no_Pa%C3%ADs_das_Maravilhas_(2010)", "title": "Alice in Wonderland"}
+{"link": "/wiki/Fifty_Shades_of_Grey", "title": "Cinquenta Tons"}
+{"link": "/wiki/Fifty_Shades_of_Grey_(filme)", "title": "Fifty Shades of Grey"}
+{"link": "/wiki/Fifty_Shades_Darker_(filme)", "title": "Fifty Shades Darker"}
+{"link": "/wiki/Fifty_Shades_Freed_(filme)", "title": "Fifty Shades Freed"}
+{"link": "/wiki/Universal_Studios", "title": "Universal Studios"}
+{"link": "/wiki/Fifty_Shades_of_Grey_(filme)", "title": "Cinquenta Tons de Cinza"}
+{"link": "/wiki/Monsters,_Inc.", "title": "Monstros S.A"}
+{"link": "/wiki/Monsters,_Inc.", "title": "Monsters, Inc."}
+{"link": "/wiki/Monsters_University", "title": "Monsters University"}
+{"link": "/wiki/Pixar_Animation_Studios", "title": "Pixar Animation Studios"}
+{"link": "/wiki/Universidade_Monstros", "title": "Universidade Monstros"}
+{"link": "/wiki/Resident_Evil#Filmes", "title": "Resident Evil"}
+{"link": "/wiki/Resident_Evil_(filme)", "title": "Resident Evil"}
+{"link": "/wiki/Resident_Evil:_Apocalypse", "title": "Apocalypse"}
+{"link": "/wiki/Resident_Evil:_Extinction", "title": "Extinction"}
+{"link": "/wiki/Resident_Evil:_Afterlife", "title": "Afterlife"}
+{"link": "/wiki/Resident_Evil:_Retribution", "title": "Retribution"}
+{"link": "/wiki/Resident_Evil:_The_Final_Chapter", "title": "The Final Chapter"}
+{"link": "/wiki/Screen_Gems", "title": "Screen Gems"}
+{"link": "/wiki/Resident_Evil:_The_Final_Chapter", "title": "Resident Evil: The Final Chapter"}
+{"link": "/wiki/Jumanji", "title": "Jumanji"}
+{"link": "/wiki/Jumanji", "title": "Jumanji"}
+{"link": "/wiki/Jumanji:_Welcome_to_the_Jungle", "title": "Jumanji: Welcome to the Jungle"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "/wiki/Jumanji:_Bem-Vindo_%C3%A0_Selva", "title": "Jumanji: Bem-Vindo \u00e0 Selva"}
+{"link": "/wiki/Marvel_Comics", "title": "Marvel Comics"}
+{"link": "/wiki/Universo_Cinematogr%C3%A1fico_Marvel", "title": "Universo Cinematogr\u00e1fico Marvel"}
+{"link": "/wiki/D%C3%B3lar_dos_Estados_Unidos", "title": "US$"}
+{"link": "/wiki/Vingadores#Cinema", "title": "Vingadores"}
+{"link": "/wiki/Marvel%27s_The_Avengers", "title": "Marvel's The Avengers"}
+{"link": "/wiki/Avengers:_Age_of_Ultron", "title": "Age of Ultron"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Infinity War"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "#cite_note-mcu-113", "title": "nota 5"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Avengers: Infinity War"}
+{"link": "/wiki/Homem_de_Ferro#Universo_Marvel_Cinematogr\u00e1fico", "title": "Homem de Ferro"}
+{"link": "/wiki/Homem_de_Ferro_(filme)", "title": "Iron Man"}
+{"link": "/wiki/Homem_de_Ferro_2", "title": "Iron Man 2"}
+{"link": "/wiki/Homem_de_Ferro_2", "title": "Iron Man 3"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "#cite_note-mcu-113", "title": "nota 5"}
+{"link": "/wiki/Homem_de_Ferro_2", "title": "Iron Man 3"}
+{"link": "/wiki/Capit%C3%A3o_Am%C3%A9rica#Universo_Marvel_Cinematogr\u00e1fico", "title": "Capit\u00e3o Am\u00e9rica"}
+{"link": "/wiki/Capit%C3%A3o_Am%C3%A9rica:_O_Primeiro_Vingador", "title": "The First Avenger"}
+{"link": "/wiki/Captain_America:_The_Winter_Soldier", "title": "The Winter Soldier"}
+{"link": "/wiki/Capit%C3%A3o_Am%C3%A9rica:_Guerra_Civil", "title": "Civil War"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "#cite_note-mcu-113", "title": "nota 5"}
+{"link": "/wiki/Capit%C3%A3o_Am%C3%A9rica:_Guerra_Civil", "title": "Captain America: Civil War"}
+{"link": "/wiki/Thor_(Marvel_Comics)#Universo_Marvel_Cinematogr\u00e1fico", "title": "Thor"}
+{"link": "/wiki/Thor_(filme)", "title": "Thor"}
+{"link": "/wiki/Thor:_The_Dark_World", "title": "Thor: The Dark World"}
+{"link": "/wiki/Thor:_Ragnarok", "title": "Thor: Ragnarok"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "#cite_note-mcu-113", "title": "nota 5"}
+{"link": "/wiki/Thor:_Ragnarok", "title": "Thor: Ragnarok"}
+{"link": "/wiki/Guardi%C3%B5es_da_Gal%C3%A1xia#Filmes", "title": "Guardi\u00f5es da Gal\u00e1xia"}
+{"link": "/wiki/Guardians_of_the_Galaxy_(filme)", "title": "Guardians of the Galaxy"}
+{"link": "/wiki/Guardians_of_the_Galaxy_Vol._2", "title": "Guardians of the Galaxy Vol. 2"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "/wiki/Guardians_of_the_Galaxy_Vol._2", "title": "Guardians of the Galaxy Vol. 2"}
+{"link": "/wiki/Deadpool#Cinema", "title": "Deadpool"}
+{"link": "/wiki/Deadpool_(filme)", "title": "Deadpool"}
+{"link": "/wiki/Deadpool_2", "title": "Deadpool 2"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Deadpool_(filme)", "title": "Deadpool"}
+{"link": "/wiki/Homem-Formiga", "title": "Homem-Formiga"}
+{"link": "/wiki/Homem-Formiga_(filme)", "title": "Homem-Formiga (filme)"}
+{"link": "/wiki/Homem-Formiga_e_a_Vespa", "title": "Homem-Formiga e a Vespa"}
+{"link": "/wiki/Marvel_Studios", "title": "Marvel Studios"}
+{"link": "/wiki/Homem-Formiga_e_a_Vespa", "title": "Homem-Formiga e a Vespa"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=4", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=4", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Bilheteria_de_cinema_no_Brasil", "title": "Bilheteria de cinema no Brasil"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=5", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=5", "title": "editar c\u00f3digo-fonte"}
+{"link": "#cite_note-ano-brasil-122", "title": "nota 14"}
+{"link": "/wiki/Titanic_(1997)", "title": "Titanic"}
+{"link": "#endnote_titanic", "title": "B"}
+{"link": "#cite_note-123", "title": "109"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Vingadores: Guerra Infinita"}
+{"link": "#cite_note-124", "title": "110"}
+{"link": "/wiki/Tubar%C3%A3o_(filme)", "title": "Tubar\u00e3o"}
+{"link": "#cite_note-125", "title": "111"}
+{"link": "/wiki/Nada_a_Perder_(filme)", "title": "Nada a Perder"}
+{"link": "#cite_note-10m-128", "title": "nota 15"}
+{"link": "#cite_note-129", "title": "114"}
+{"link": "/wiki/Os_Dez_Mandamentos_(filme_de_2016)", "title": "Os Dez Mandamentos - O Filme"}
+{"link": "#cite_note-10m-128", "title": "nota 15"}
+{"link": "#cite_note-adorocinema1-130", "title": "115"}
+{"link": "/wiki/Tropa_de_Elite_2", "title": "Tropa de Elite 2"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Vingadores_(2012)", "title": "Os Vingadores"}
+{"link": "#cite_note-132", "title": "117"}
+{"link": "/wiki/Dona_Flor_e_Seus_Dois_Maridos_(1976)", "title": "Dona Flor e Seus Dois Maridos"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Inferno_na_Torre", "title": "Inferno na Torre"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Avengers:_Age_of_Ultron", "title": "Vingadores: Era de Ultron"}
+{"link": "#cite_note-134", "title": "119"}
+{"link": "/wiki/Ghost_(filme)", "title": "Ghost - Do Outro Lado da Vida"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Furious_7", "title": "Velozes e Furiosos 7"}
+{"link": "#cite_note-135", "title": "120"}
+{"link": "/wiki/The_Incredibles_2", "title": "Os Incr\u00edveis 2"}
+{"link": "#cite_note-136", "title": "121"}
+{"link": "/wiki/Capit%C3%A3o_Am%C3%A9rica:_Guerra_Civil", "title": "Capit\u00e3o Am\u00e9rica: Guerra Civil"}
+{"link": "#cite_note-137", "title": "122"}
+{"link": "/wiki/A_Saga_Crep%C3%BAsculo:_Amanhecer_-_Parte_2", "title": "A Saga Crep\u00fasculo: Amanhecer - Parte 2"}
+{"link": "#cite_note-138", "title": "123"}
+{"link": "/wiki/E.T._-_O_Extraterrestre", "title": "E.T. - O Extraterrestre"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Minha_M%C3%A3e_%C3%89_Uma_Pe%C3%A7a_2", "title": "Minha M\u00e3e \u00c9 Uma Pe\u00e7a 2"}
+{"link": "#cite_note-mae-139", "title": "124"}
+{"link": "/wiki/A_Era_do_Gelo_3", "title": "A Era do Gelo 3"}
+{"link": "#cite_note-abril2012-140", "title": "125"}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "#cite_note-abril2011-141", "title": "126"}
+{"link": "/wiki/Despicable_Me_3", "title": "Meu Malvado Favorito 3"}
+{"link": "#cite_note-142", "title": "127"}
+{"link": "/wiki/Minions_(filme)", "title": "Minions"}
+{"link": "#cite_note-143", "title": "128"}
+{"link": "/wiki/A_Era_do_Gelo_4", "title": "A Era do Gelo 4"}
+{"link": "#cite_note-144", "title": "129"}
+{"link": "/wiki/Liga_da_Justi%C3%A7a_(filme)", "title": "Liga da Justi\u00e7a"}
+{"link": "#cite_note-145", "title": "130"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman vs Superman: A Origem da Justi\u00e7a"}
+{"link": "#cite_note-146", "title": "131"}
+{"link": "/wiki/The_Fate_of_the_Furious", "title": "Velozes e Furiosos 8"}
+{"link": "#cite_note-147", "title": "132"}
+{"link": "/wiki/Spider-Man_(filme)", "title": "Homem-Aranha"}
+{"link": "#cite_note-148", "title": "133"}
+{"link": "/wiki/Beauty_and_the_Beast_(2017)", "title": "A Bela e a Fera"}
+{"link": "#cite_note-149", "title": "134"}
+{"link": "/wiki/Finding_Dory", "title": "Procurando Dory"}
+{"link": "#cite_note-150", "title": "135"}
+{"link": "/wiki/O_Exorcista", "title": "O Exorcista"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Esquadr%C3%A3o_Suicida_(filme)", "title": "Esquadr\u00e3o Suicida"}
+{"link": "#cite_note-151", "title": "136"}
+{"link": "/wiki/Homem_Aranha_2", "title": "Homem-Aranha 2"}
+{"link": "#cite_note-152", "title": "137"}
+{"link": "/wiki/Homem_de_Ferro_3", "title": "Homem de Ferro 3"}
+{"link": "#cite_note-153", "title": "138"}
+{"link": "/wiki/Black_Panther", "title": "Pantera Negra"}
+{"link": "#cite_note-154", "title": "139"}
+{"link": "/wiki/Shrek_Forever_After", "title": "Shrek para Sempre"}
+{"link": "#cite_note-abril2011-141", "title": "126"}
+{"link": "/wiki/The_Twilight_Saga:_Breaking_Dawn", "title": "A Saga Crep\u00fasculo: Amanhecer - Parte 1"}
+{"link": "#cite_note-155", "title": "140"}
+{"link": "/wiki/King_Kong_(1976)", "title": "King Kong"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Earthquake", "title": "Terremoto"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Mulher-Maravilha_(filme)", "title": "Mulher-Maravilha"}
+{"link": "#cite_note-156", "title": "141"}
+{"link": "/wiki/Despicable_Me_2", "title": "Meu Malvado Favorito 2"}
+{"link": "#cite_note-157", "title": "142"}
+{"link": "/wiki/The_Passion_of_the_Christ", "title": "A Paix\u00e3o de Cristo"}
+{"link": "#cite_note-abril2010-158", "title": "143"}
+{"link": "/wiki/Star_Wars:_O_Despertar_da_For%C3%A7a", "title": "Star Wars: O Despertar da For\u00e7a"}
+{"link": "#cite_note-159", "title": "144"}
+{"link": "/wiki/Spider-Man:_Homecoming", "title": "Homem-Aranha: De Volta ao Lar"}
+{"link": "#cite_note-160", "title": "145"}
+{"link": "/wiki/Fifty_Shades_of_Grey_(filme)", "title": "Cinquenta Tons de Cinza"}
+{"link": "#cite_note-161", "title": "146"}
+{"link": "/wiki/Wonder_(filme)", "title": "Extraordin\u00e1rio"}
+{"link": "#cite_note-162", "title": "147"}
+{"link": "/wiki/A_Dama_do_Lota%C3%A7%C3%A3o_(filme)", "title": "A Dama do Lota\u00e7\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Logan_(filme)", "title": "Logan"}
+{"link": "#cite_note-163", "title": "148"}
+{"link": "/wiki/Thor:_Ragnarok", "title": "Thor: Ragnarok"}
+{"link": "#cite_note-164", "title": "149"}
+{"link": "/wiki/Saturday_Night_Fever", "title": "Os Embalos de S\u00e1bado \u00e0 Noite"}
+{"link": "#cite_note-efp104-133", "title": "118"}
+{"link": "/wiki/Jurassic_World", "title": "Jurassic World - O Mundo dos Dinossauros"}
+{"link": "#cite_note-165", "title": "150"}
+{"link": "/wiki/The_Fault_in_Our_Stars_(filme)", "title": "A Culpa \u00e9 das Estrelas"}
+{"link": "#cite_note-166", "title": "151"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=6", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=6", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Titanic_(1997)", "title": "Titanic"}
+{"link": "/wiki/1997", "title": "1997"}
+{"link": "#cite_note-167", "title": "152"}
+{"link": "#cite_note-ano-brasil-122", "title": "nota 14"}
+{"link": "/wiki/Real_(moeda)", "title": "R$"}
+{"link": "/wiki/Avengers:_Infinity_War", "title": "Vingadores: Guerra Infinita"}
+{"link": "#cite_note-168", "title": "153"}
+{"link": "/wiki/Incredibles_2", "title": "Os Incr\u00edveis 2"}
+{"link": "#cite_note-169", "title": "154"}
+{"link": "/wiki/Black_Panther_(filme)", "title": "Pantera Negra"}
+{"link": "#cite_note-170", "title": "155"}
+{"link": "/wiki/Avengers:_Age_of_Ultron", "title": "Vingadores: Era de Ultron"}
+{"link": "#cite_note-171", "title": "156"}
+{"link": "/wiki/Capit%C3%A3o_Am%C3%A9rica:_Guerra_Civil", "title": "Capit\u00e3o Am\u00e9rica: Guerra Civil"}
+{"link": "/wiki/Furious_7", "title": "Velozes e Furiosos 7"}
+{"link": "/wiki/The_Fate_of_the_Furious", "title": "Velozes e Furiosos 8"}
+{"link": "/wiki/Liga_da_Justi%C3%A7a_(filme)", "title": "Liga da Justi\u00e7a"}
+{"link": "/wiki/Batman_v_Superman:_Dawn_of_Justice", "title": "Batman vs Superman: A Origem da Justi\u00e7a"}
+{"link": "/wiki/Beauty_and_the_Beast_(2017)", "title": "A Bela e a Fera"}
+{"link": "/wiki/Os_Vingadores_(2012)", "title": "Os Vingadores"}
+{"link": "/wiki/Meu_Malvado_Favorito_3", "title": "Meu Malvado Favorito 3"}
+{"link": "/wiki/Minha_M%C3%A3e_%C3%89_Uma_Pe%C3%A7a_2", "title": "Minha M\u00e3e \u00c9 Uma Pe\u00e7a 2"}
+{"link": "/wiki/Nada_a_Perder_(filme)", "title": "Nada a Perder"}
+{"link": "#cite_note-172", "title": "157"}
+{"link": "/wiki/Minions_(filme)", "title": "Minions"}
+{"link": "/wiki/Esquadr%C3%A3o_Suicida_(filme)", "title": "Esquadr\u00e3o Suicida"}
+{"link": "/wiki/Os_Dez_Mandamentos_(filme_de_2016)", "title": "Os Dez Mandamentos - O Filme"}
+{"link": "/wiki/Finding_Dory", "title": "Procurando Dory"}
+{"link": "/wiki/Star_Wars:_O_Despertar_da_For%C3%A7a", "title": "Star Wars: O Despertar da For\u00e7a"}
+{"link": "/wiki/Mulher_Maravilha_(filme)", "title": "Mulher-Maravilha"}
+{"link": "/wiki/Wonder_(filme)", "title": "Extraordin\u00e1rio "}
+{"link": "#cite_note-173", "title": "158"}
+{"link": "/wiki/Tropa_de_Elite_2", "title": "Tropa de Elite 2"}
+{"link": "/wiki/Spider-Man:_Homecoming", "title": "Homem-Aranha: De Volta ao Lar"}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "/wiki/Amanhecer:_Parte_2", "title": "A Saga Crep\u00fasculo: Amanhecer - Parte 2"}
+{"link": "/wiki/Thor:_Ragnarok", "title": "Thor: Ragnarok"}
+{"link": "#cite_note-174", "title": "159"}
+{"link": "/wiki/Homem_de_Ferro_3", "title": "Homem de Ferro 3"}
+{"link": "/wiki/Ice_Age:_Continental_Drift", "title": "A Era do Gelo 4"}
+{"link": "/wiki/Logan_(filme)", "title": "Logan"}
+{"link": "/wiki/Jurassic_World", "title": "Jurassic World - O Mundo dos Dinossauros"}
+{"link": "/wiki/Titanic_(1997)", "title": "Titanic"}
+{"link": "#cite_note-175", "title": "nota 16"}
+{"link": "/wiki/Jurassic_World:_Fallen_Kingdom", "title": "Jurassic World: Reino Amea\u00e7ado"}
+{"link": "#cite_note-176", "title": "160"}
+{"link": "/wiki/Fifty_Shades_of_Grey_(filme)", "title": "Cinquenta Tons de Cinza"}
+{"link": "/wiki/Deadpool_(filme)", "title": "Deadpool"}
+{"link": "/wiki/Ice_Age:_Dawn_of_the_Dinosaurs", "title": "A Era do Gelo 3"}
+{"link": "/wiki/Despicable_Me_2", "title": "Meu Malvado Favorito 2"}
+{"link": "/wiki/Jumanji:_Welcome_to_the_Jungle", "title": "Jumanji: Bem-Vindo \u00e0 Selva"}
+{"link": "#cite_note-177", "title": "161"}
+{"link": "/wiki/Hotel_Transylvania_3:_Summer_Vacation", "title": "Hotel Transilv\u00e2nia 3: F\u00e9rias Monstruosas"}
+{"link": "#cite_note-178", "title": "162"}
+{"link": "/wiki/Doutor_Estranho_(filme)", "title": "Doutor Estranho"}
+{"link": "/wiki/The_Shack_(2017)", "title": "A Cabana"}
+{"link": "/wiki/Maleficent", "title": "Mal\u00e9vola"}
+{"link": "/wiki/Deadpool_2", "title": "Deadpool 2"}
+{"link": "#cite_note-179", "title": "163"}
+{"link": "/wiki/Moana", "title": "Moana: Um Mar de Aventuras"}
+{"link": "/wiki/Ice_Age:_Collision_Course", "title": "A Era do Gelo: O Big Bang"}
+{"link": "/wiki/Shrek_para_Sempre", "title": "Shrek para Sempre"}
+{"link": "/wiki/The_Fault_in_Our_Stars_(filme)", "title": "A Culpa \u00e9 das Estrelas"}
+{"link": "/wiki/No%C3%A9_(filme)", "title": "No\u00e9"}
+{"link": "/wiki/Fifty_Shades_Freed_(filme)", "title": " 50 Tons de Liberdade"}
+{"link": "#cite_note-180", "title": "164"}
+{"link": "/wiki/Guardi%C3%B5es_da_Gal%C3%A1xia_Vol._2", "title": "Guardi\u00f5es da Gal\u00e1xia Vol. 2"}
+{"link": "/wiki/X-Men:_Apocalipse", "title": "X-Men: Apocalipse"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=7", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=7", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Lista_de_filmes_brasileiros_com_mais_de_um_milh%C3%A3o_de_espectadores", "title": "Lista de filmes brasileiros com mais de um milh\u00e3o de espectadores"}
+{"link": "/wiki/Nada_a_Perder_(filme)", "title": "Nada a Perder"}
+{"link": "#cite_note-10m-128", "title": "nota 15"}
+{"link": "#cite_note-181", "title": "165"}
+{"link": "/wiki/Os_Dez_Mandamentos_(filme_de_2016)", "title": "Os Dez Mandamentos - O Filme"}
+{"link": "#cite_note-10m-128", "title": "nota 15"}
+{"link": "#cite_note-adorocinema1-130", "title": "115"}
+{"link": "/wiki/Tropa_de_Elite_2", "title": "Tropa de Elite 2: O Inimigo Agora \u00e9 Outro"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Dona_Flor_e_Seus_Dois_Maridos_(1976)", "title": "Dona Flor e Seus Dois Maridos"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Minha_M%C3%A3e_%C3%89_Uma_Pe%C3%A7a_2", "title": "Minha M\u00e3e \u00c9 Uma Pe\u00e7a 2"}
+{"link": "#cite_note-mae-139", "title": "124"}
+{"link": "/wiki/A_Dama_do_Lota%C3%A7%C3%A3o_(filme)", "title": "A Dama do Lota\u00e7\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Se_Eu_Fosse_Voc%C3%AA_2", "title": "Se Eu Fosse Voc\u00ea 2"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/O_Trapalh%C3%A3o_nas_Minas_do_Rei_Salom%C3%A3o", "title": "O Trapalh\u00e3o nas Minas do Rei Salom\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/L%C3%BAcio_Fl%C3%A1vio,_o_Passageiro_da_Agonia", "title": "L\u00facio Fl\u00e1vio, o Passageiro da Agonia"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/2_Filhos_de_Francisco", "title": "2 Filhos de Francisco"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Saltimbancos_Trapalh%C3%B5es", "title": "Os Saltimbancos Trapalh\u00f5es"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Trapalh%C3%B5es_na_Guerra_dos_Planetas", "title": "Os Trapalh\u00f5es na Guerra dos Planetas"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Trapalh%C3%B5es_na_Serra_Pelada", "title": "Os Trapalh\u00f5es na Serra Pelada"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/O_Cinderelo_Trapalh%C3%A3o", "title": "O Cinderelo Trapalh\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/De_Pernas_pro_Ar_2", "title": "De Pernas pro Ar 2"}
+{"link": "#cite_note-filmebcom\u00e9dias-182", "title": "166"}
+{"link": "/wiki/O_Casamento_dos_Trapalh%C3%B5es", "title": "O Casamento dos Trapalh\u00f5es"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Coisas_Er%C3%B3ticas", "title": "Coisas Er\u00f3ticas"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Carandiru_(filme)", "title": "Carandiru"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Vagabundos_Trapalh%C3%B5es", "title": "Os Vagabundos Trapalh\u00f5es"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Minha_M%C3%A3e_%C3%89_Uma_Pe%C3%A7a_-_O_Filme", "title": "Minha M\u00e3e \u00c9 Uma Pe\u00e7a - O Filme"}
+{"link": "#cite_note-183", "title": "167"}
+{"link": "/wiki/O_Trapalh%C3%A3o_no_Planalto_dos_Macacos", "title": "O Trapalh\u00e3o no Planalto dos Macacos"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Simbad,_o_Marujo_Trapalh%C3%A3o", "title": "Simbad, o Marujo Trapalh\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/O_Rei_e_os_Trapalh%C3%B5es", "title": "O Rei e os Trapalh\u00f5es"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Tr%C3%AAs_Mosqueteiros_Trapalh%C3%B5es", "title": "Os Tr\u00eas Mosqueteiros Trapalh\u00f5es"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/O_Incr%C3%ADvel_Monstro_Trapalh%C3%A3o", "title": "O Incr\u00edvel Monstro Trapalh\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Lua_de_Cristal", "title": "Lua de Cristal"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Nosso_Lar_(filme)", "title": "Nosso Lar"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/A_Princesa_Xuxa_e_os_Trapalh%C3%B5es", "title": "A Princesa Xuxa e os Trapalh\u00f5es"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/At%C3%A9_que_a_Sorte_nos_Separe_2", "title": "At\u00e9 que a Sorte nos Separe 2"}
+{"link": "#cite_note-184", "title": "168"}
+{"link": "/wiki/O_Cangaceiro_Trapalh%C3%A3o", "title": "O Cangaceiro Trapalh\u00e3o"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Loucas_Pra_Casar", "title": "Loucas Pra Casar"}
+{"link": "#cite_note-185", "title": "169"}
+{"link": "/wiki/Se_Eu_Fosse_Voc%C3%AA", "title": "Se Eu Fosse Voc\u00ea"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Os_Trapalh%C3%B5es_e_o_Rei_do_Futebol", "title": "Os Trapalh\u00f5es e o Rei do Futebol"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/De_Pernas_pro_Ar_(2010)", "title": "De Pernas pro Ar"}
+{"link": "#cite_note-ancine2012-186", "title": "170"}
+{"link": "/wiki/O_Jeca_Macumbeiro", "title": "O Jeca Macumbeiro"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Eu_Te_Amo_(filme)", "title": "Eu Te Amo"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/At%C3%A9_que_a_Sorte_nos_Separe", "title": "At\u00e9 que a Sorte nos Separe"}
+{"link": "#cite_note-187", "title": "171"}
+{"link": "/wiki/Jeca_Contra_o_Capeta", "title": "Jeca Contra o Capeta"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Chico_Xavier_(filme)", "title": "Chico Xavier"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/O_Trapalh%C3%A3o_na_Ilha_do_Tesouro", "title": "O Trapalh\u00e3o na Ilha do Tesouro"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Cidade_de_Deus_(filme)", "title": "Cidade de Deus"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/At%C3%A9_que_a_Sorte_nos_Separe_3", "title": "At\u00e9 que a Sorte nos Separe 3"}
+{"link": "#cite_note-188", "title": "172"}
+{"link": "/wiki/Jec%C3%A3o,_um_Fofoqueiro_no_C%C3%A9u", "title": "Jec\u00e3o, um Fofoqueiro no C\u00e9u"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Vai_Que_Cola_-_O_Filme", "title": "Vai Que Cola - O Filme"}
+{"link": "#cite_note-189", "title": "173"}
+{"link": "/wiki/Os_Trapalh%C3%B5es_na_Terra_dos_Monstros", "title": "Os Trapalh\u00f5es na Terra dos Monstros"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Xica_da_Silva_(filme)", "title": "Xica da Silva"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Lisbela_e_o_Prisioneiro", "title": "Lisbela e o Prisioneiro"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Meu_Passado_Me_Condena", "title": "Meu Passado Me Condena"}
+{"link": "#cite_note-190", "title": "174"}
+{"link": "/wiki/O_Menino_da_Porteira", "title": "O Menino da Porteira"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/wiki/Aluga-Se_Mo%C3%A7as", "title": "Aluga-Se Mo\u00e7as"}
+{"link": "#cite_note-ancine2011-131", "title": "116"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=8", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=8", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Portugal", "title": "Portugal"}
+{"link": "/wiki/Instituto_do_Cinema_e_Audiovisual", "title": "Instituto do Cinema e Audiovisual"}
+{"link": "#cite_note-191", "title": "175"}
+{"link": "#cite_note-todos-192", "title": "176"}
+{"link": "/wiki/Euro", "title": "euro"}
+{"link": "#cite_note-193", "title": "177"}
+{"link": "#cite_note-194", "title": "178"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=9", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=9", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Avatar_(filme)", "title": "Avatar"}
+{"link": "/wiki/Minions_(filme)", "title": "M\u00ednimos"}
+{"link": "/wiki/Mamma_Mia!_(filme)", "title": "Mamma Mia!"}
+{"link": "/wiki/Furious_7", "title": "Velocidade Furiosa 7"}
+{"link": "/wiki/Shrek_the_Third", "title": "Shrek: O Terceiro"}
+{"link": "/wiki/Madagascar:_Escape_2_Africa", "title": "Madag\u00e1scar 2"}
+{"link": "/wiki/The_Fate_of_the_Furious", "title": "Velocidade Furiosa 8"}
+{"link": "/wiki/Shrek_2", "title": "Shrek 2"}
+{"link": "/wiki/A_Gaiola_Dourada", "title": "A Gaiola Dourada"}
+{"link": "/wiki/O_C%C3%B3digo_Da_Vinci_(filme)", "title": "O C\u00f3digo Da Vinci"}
+{"link": "/wiki/Shrek_para_Sempre", "title": "Shrek para Sempre"}
+{"link": "/wiki/A_Paix%C3%A3o_de_Cristo", "title": "A Paix\u00e3o de Cristo"}
+{"link": "/wiki/Madagascar_(filme)", "title": "Madag\u00e1scar"}
+{"link": "/wiki/Ratatouille_(filme)", "title": "Ratatui"}
+{"link": "/wiki/Ice_Age:_Dawn_of_the_Dinosaurs", "title": "A Idade do Gelo 3: Despertar dos Dinossauros"}
+{"link": "/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest", "title": "Piratas das Cara\u00edbas: O Cofre do Homem Morto"}
+{"link": "/wiki/Madagascar_3:_Europe%27s_Most_Wanted", "title": "Madag\u00e1scar 3"}
+{"link": "/wiki/A_Vida_Secreta_dos_Nossos_Bichos", "title": "A Vida Secreta dos Nossos Bichos"}
+{"link": "/wiki/O_P%C3%A1tio_das_Cantigas_(2015)", "title": "O P\u00e1tio das Cantigas"}
+{"link": "/wiki/Incredibles_2", "title": "The Incredibles 2: Os Super-Her\u00f3is"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=10", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=10", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/O_P%C3%A1tio_das_Cantigas_(2015)", "title": "O P\u00e1tio das Cantigas"}
+{"link": "/wiki/O_Crime_do_Padre_Amaro_(2005)", "title": "O Crime do Padre Amaro"}
+{"link": "/wiki/7_Pecados_Rurais", "title": "7 Pecados Rurais"}
+{"link": "/wiki/Filme_da_Treta", "title": "Filme da Treta"}
+{"link": "/wiki/Balas_%26_Bolinhos_-_O_%C3%9Altimo_Cap%C3%ADtulo", "title": "Balas & Bolinhos - O \u00daltimo Cap\u00edtulo"}
+{"link": "/wiki/Morangos_com_A%C3%A7%C3%BAcar_-_O_Filme", "title": "Morangos com A\u00e7\u00facar - O Filme"}
+{"link": "/wiki/Call_Girl", "title": "Call Girl"}
+{"link": "/wiki/Corrup%C3%A7%C3%A3o_(2007)", "title": "Corrup\u00e7\u00e3o"}
+{"link": "/wiki/Am%C3%A1lia_-_O_Filme", "title": "Am\u00e1lia - O Filme"}
+{"link": "/wiki/O_Le%C3%A3o_da_Estrela_(2015)", "title": "O Le\u00e3o da Estrela"}
+{"link": "/wiki/A_Can%C3%A7%C3%A3o_de_Lisboa_(2016)", "title": "A Can\u00e7\u00e3o de Lisboa"}
+{"link": "/wiki/Uma_Aventura_na_Casa_Assombrada", "title": "Uma Aventura na Casa Assombrada"}
+{"link": "/wiki/Os_Maias_(filme)", "title": "Os Maias"}
+{"link": "/wiki/Virados_do_Avesso", "title": "Virados do Avesso"}
+{"link": "/wiki/A_Bela_e_o_Paparazzo", "title": "A Bela e o Paparazzo"}
+{"link": "/wiki/Os_Gatos_n%C3%A3o_T%C3%AAm_Vertigens", "title": "Os Gatos n\u00e3o T\u00eam Vertigens"}
+{"link": "/w/index.php?title=Second_Life_(filme)&action=edit&redlink=1", "title": "Second Life"}
+{"link": "/wiki/Contraluz", "title": "Contraluz"}
+{"link": "/wiki/O_Fim_da_Inoc%C3%AAncia", "title": "O Fim da Inoc\u00eancia"}
+{"link": "/wiki/Sorte_Nula", "title": "Sorte Nula"}
+{"link": "#cite_note-todos-192", "title": "176"}
+{"link": "#cite_note-195", "title": "179"}
+{"link": "/wiki/Tenta%C3%A7%C3%A3o_(filme)", "title": "Tenta\u00e7\u00e3o"}
+{"link": "/wiki/O_Lugar_do_Morto", "title": "O Lugar do Morto"}
+{"link": "/wiki/Ad%C3%A3o_e_Eva_(filme)", "title": "Ad\u00e3o e Eva"}
+{"link": "/wiki/Zona_J_(filme)", "title": "Zona J"}
+{"link": "/wiki/Jaime_(1999)", "title": "Jaime"}
+{"link": "/w/index.php?title=Pesadelo_Cor-de-Rosa&action=edit&redlink=1", "title": "Pesadelo Cor-de-Rosa"}
+{"link": "/wiki/A_Vida_%C3%89_Bela%3F!", "title": "A Vida \u00c9 Bela?!"}
+{"link": "/wiki/Kilas,_o_Mau_da_Fita", "title": "Kilas, o Mau da Fita "}
+{"link": "/wiki/Capit%C3%A3es_de_Abril", "title": "Capit\u00e3es de Abril"}
+{"link": "/wiki/Adeus,_Pai", "title": "Adeus, Pai"}
+{"link": "/w/index.php?title=Os_Abismos_da_Meia-Noite&action=edit&redlink=1", "title": "Os Abismos da Meia-Noite"}
+{"link": "/wiki/Sem_Sombra_de_Pecado", "title": "Sem Sombra de Pecado"}
+{"link": "/wiki/Oxal%C3%A1_(filme)", "title": "Oxal\u00e1"}
+{"link": "/wiki/O_Querido_Lil%C3%A1s", "title": "O Querido Lil\u00e1s"}
+{"link": "/wiki/Inferno_(filme_portugu%C3%AAs_de_1999)", "title": "Inferno"}
+{"link": "/w/index.php?title=A_Balada_da_Praia_dos_C%C3%A3es&action=edit&redlink=1", "title": "A Balada da Praia dos C\u00e3es"}
+{"link": "/wiki/Francisca_(filme)", "title": "Francisca"}
+{"link": "/wiki/A_Selva_(2002)", "title": "A Selva"}
+{"link": "/wiki/Non,_ou_a_V%C3%A3_Gl%C3%B3ria_de_Mandar", "title": "Non, ou a V\u00e3 Gl\u00f3ria de Mandar"}
+{"link": "/wiki/Cr%C3%B3nica_dos_Bons_Malandros", "title": "Cr\u00f3nica dos Bons Malandros"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=11", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=11", "title": "editar c\u00f3digo-fonte"}
+{"link": "/wiki/Anima%C3%A7%C3%A3o#Anima\u00e7\u00f5es_com_maiores_bilheterias_mundiais", "title": "Lista de filmes animados de maior bilheteria"}
+{"link": "/wiki/Lista_de_filmes_de_maior_bilheteria_na_China", "title": "Lista de filmes de maior bilheteria na China"}
+{"link": "#cite_ref-108", "title": "\u2191"}
+{"link": "#cite_note-107", "title": "107"}
+{"link": "#cite_ref-110", "title": "\u2191"}
+{"link": "#cite_note-109", "title": "108"}
+{"link": "#cite_ref-The_Force_Awakens_111-0", "title": "a"}
+{"link": "#cite_ref-The_Force_Awakens_111-1", "title": "b"}
+{"link": "#cite_ref-112", "title": "\u2191"}
+{"link": "/wiki/The_Exorcist", "title": "The Exorcist"}
+{"link": "#cite_ref-mcu_113-0", "title": "a"}
+{"link": "#cite_ref-mcu_113-1", "title": "b"}
+{"link": "#cite_ref-mcu_113-2", "title": "c"}
+{"link": "#cite_ref-mcu_113-3", "title": "d"}
+{"link": "#cite_ref-mcu_113-4", "title": "e"}
+{"link": "/wiki/Universal_Pictures", "title": "Universal Pictures"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "#cite_ref-114", "title": "\u2191"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "#cite_ref-115", "title": "\u2191"}
+{"link": "/wiki/Eon", "title": "Eon"}
+{"link": "/wiki/United_Artists", "title": "United Artists"}
+{"link": "/wiki/MGM", "title": "MGM"}
+{"link": "/wiki/Casino_Royale_(1967)", "title": "Casino Royale (1967)"}
+{"link": "/wiki/Never_Say_Never_Again", "title": "Never Say Never Again"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "/wiki/Warner_Bros.", "title": "Warner Bros."}
+{"link": "#cite_ref-116", "title": "\u2191"}
+{"link": "/wiki/New_Line_Cinema", "title": "New Line Cinema"}
+{"link": "/wiki/Warner_Bros._Pictures", "title": "Warner Bros. Pictures"}
+{"link": "/wiki/MGM", "title": "MGM"}
+{"link": "#cite_ref-DW_117-0", "title": "a"}
+{"link": "#cite_ref-DW_117-1", "title": "b"}
+{"link": "/wiki/DreamWorks_Animation", "title": "DreamWorks Animation"}
+{"link": "/wiki/Paramount_Pictures", "title": "Paramount Pictures"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_ref-118", "title": "\u2191"}
+{"link": "/wiki/Columbia_Pictures", "title": "Columbia Pictures"}
+{"link": "#cite_ref-119", "title": "\u2191"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "#cite_ref-120", "title": "\u2191"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Walt Disney Studios Motion Pictures"}
+{"link": "/wiki/20th_Century_Fox", "title": "20th Century Fox"}
+{"link": "#cite_ref-121", "title": "\u2191"}
+{"link": "/wiki/Walt_Disney_Studios_Motion_Pictures", "title": "Buena Vista International"}
+{"link": "#cite_ref-ano-brasil_122-0", "title": "a"}
+{"link": "#cite_ref-ano-brasil_122-1", "title": "b"}
+{"link": "#cite_ref-10m_128-0", "title": "a"}
+{"link": "#cite_ref-10m_128-1", "title": "b"}
+{"link": "#cite_ref-10m_128-2", "title": "c"}
+{"link": "#cite_ref-10m_128-3", "title": "d"}
+{"link": "/wiki/Record_Filmes", "title": "uma subsidi\u00e1ria"}
+{"link": "/wiki/Igreja_Universal_do_Reino_de_Deus", "title": "Igreja Universal do Reino de Deus"}
+{"link": "#cite_note-126", "title": "112"}
+{"link": "#cite_note-127", "title": "113"}
+{"link": "#cite_ref-175", "title": "\u2191"}
+{"link": "#cite_ref-1", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=Avatar.htm", "title": "\u00abAvatar (2009)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-2", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=Titanic.htm", "title": "\u00abTitanic (1997)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-3", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=starwars7.htm", "title": "\u00abStar Wars: The Force Awakens (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-4", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=marvel0518.htm", "title": "\u00abAvengers: Infinity War\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-5", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=jurassicpark4.htm", "title": "\u00abJurassic World (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-6", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=avengers11.htm", "title": "\u00abMarvel's The Avengers (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-vlz7_7-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=fast7.htm", "title": "\u00abFurious 7 (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-mojo_8-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=avengers2.htm", "title": "\u00abAvengers: Age of Ultron (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-9", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=marvel2017b.htm", "title": "\u00abBlack Panther\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-hp72_10-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter72.htm", "title": "\u00abHarry Potter and the Deathly Hallows Part 2 (2011)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-11", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=starwars8.htm", "title": "\u00abStar Wars: The Last Jedi\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-12", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=jurassicworldsequel.htm", "title": "\u00abJurassic World: Fallen Kingdom\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-frozen_13-0", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=frozen2013.htm", "title": "\u00abFrozen (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-14", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=beautyandthebeast2017.htm", "title": "\u00abBeauty and the Beast (2017)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-15", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=theincredibles2.htm", "title": "\u00abIncredibles 2\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-16", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=furious8.htm", "title": "\u00abThe Fate of the Furious\u00bb"}
+{"link": "/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params", "title": "ajuda"}
+{"link": "#cite_ref-17", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=ironman3.htm", "title": "\u00abIron Man 3 (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-18", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=minions.htm", "title": "\u00abMinions (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-19", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=marvel2016.htm", "title": "\u00abCaptain America: Civil War (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-20", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=transformers3.htm", "title": "\u00abTransformers: Dark of the Moon (2011)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-21", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=returnoftheking.htm", "title": "\u00abThe Lord of the Rings: The Return of the King (2003)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-22", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=bond23.htm", "title": "\u00abSkyfall (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-Box_Office_Mojo_23-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=transformers4.htm", "title": "\u00abTransformers: Age of Extinction (2014)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-24", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=batman3.htm", "title": "\u00abThe Dark Knight Rises (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-toy3_25-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=toystory3.htm", "title": "\u00abToy Story 3 (2010)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-26", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean2.htm", "title": "\u00abPirates of the Caribbean: Dead Man's Chest (2006)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-27", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=starwars2016.htm", "title": "\u00abRogue One: A Star Wars Story (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-28", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean4.htm", "title": "\u00abPirates of the Caribbean: On Stranger Tides (2011)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-despicableme3_29-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=despicableme3.htm", "title": "\u00abDespicable Me 3\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-30", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=jurassicpark.htm", "title": "\u00abJurassic Park (1993)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-osi_31-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=pixar2015.htm", "title": "\u00abFinding Dory (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-32", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=starwars.htm", "title": "\u00abStar Wars Episode I: The Phantom Menace (1999)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-33", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=aliceinwonderland10.htm", "title": "\u00abAlice in Wonderland (2010)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-Zoo_34-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=disney2016.htm", "title": "\u00abZootopia (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-35", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=hobbit.htm", "title": "\u00abThe Hobbit: An Unexpected Journey (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-36", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=darkknight.htm", "title": "\u00abThe Dark Knight (2008)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-37", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter.htm", "title": "\u00abHarry Potter and the Sorcerer's Stone (2001)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-http_38-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?page=main&id=despicableme3.htm", "title": "\u00abDespicable Me 3 (2017)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-leao_39-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=lionking.htm", "title": "\u00abThe Lion King (1994)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-tjb_40-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=junglebook2015.htm", "title": "\u00abThe Jungle Book (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-41", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean3.htm", "title": "\u00abPirates of the Caribbean: At World's End (2007)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-42", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=jumanji2016.htm", "title": "\u00abJumanji: Welcome to the Jungle\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-43", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter7.htm", "title": "\u00abHarry Potter and the Deathly Hallows Part 1 (2010)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-44", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=hobbit2.htm", "title": "\u00abThe Hobbit: The Desolation of Smaug (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-45", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=hobbit3.htm", "title": "\u00abThe Hobbit: The Battle of the Five Armies (2014)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-nemo_46-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=findingnemo.htm", "title": "\u00abFinding Nemo (2003)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-47", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter5.htm", "title": "\u00abHarry Potter and the Order of the Phoenix (2007)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-48", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter6.htm", "title": "\u00abHarry Potter and the Half-Blood Prince (2009)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-49", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=twotowers.htm", "title": "\u00abThe Lord of the Rings: The Two Towers (2002)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-shr2_50-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=shrek2.htm", "title": "\u00abShrek 2 (2004)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-51", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter4.htm", "title": "\u00abHarry Potter and the Goblet of Fire (2005)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-52", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=spiderman3.htm", "title": "\u00abSpider-Man 3 (2007)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-icea3_53-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=iceage3.htm", "title": "\u00abIce Age: Dawn of the Dinosaurs (2009)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-54", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=bond24.htm", "title": "\u00abSpectre (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-55", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=spiderman2017.htm", "title": "\u00abSpider-Man: Homecoming\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-icea4_56-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter2.htm", "title": "\u00abHarry Potter and the Chamber of Secrets (2002)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-:Aaou_57-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=iceage4.htm", "title": "\u00abIce Age: Continental Drift (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-58", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=illumination2015.htm", "title": "\u00abThe Secret Life of Pets (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-59", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=superman2015.htm", "title": "\u00abBatman v Superman: Dawn of Justice (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-60", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=fellowshipofthering.htm", "title": "\u00abThe Lord of the Rings: The Fellowship of the Ring (2001)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-61", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?page=main&id=wolfwarrior2.htm", "title": "\u00abWolf Warrior 2\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-62", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=catchingfire.htm", "title": "\u00abThe Hunger Games: Catching Fire (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-gotg_63-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=marvel17a.htm", "title": "\u00abGuardians of the Galaxy Vol. 2 (2017)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-dmnt_64-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=pixar2014.htm", "title": "\u00abInside Out (2015)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-65", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=marvel2017.htm", "title": "\u00abThor: Ragnarok\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-66", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=starwars3.htm", "title": "\u00abStar Wars Episode III: Revenge of the Sith (2005)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-67", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=transformers2.htm", "title": "\u00abTransformers: Revenge of the Fallen (2009)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-68", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=breakingdawn2.htm", "title": "\u00abThe Twilight Saga: Breaking Dawn Part 2 (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-69", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=inception.htm", "title": "\u00abInception (2010)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-70", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=wonderwoman.htm", "title": "\u00abWonder Woman\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-71", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=spiderman.htm", "title": "\u00abSpider-Man (2002)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-72", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=independenceday.htm", "title": "\u00abIndependence Day (1996)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-73", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=fantasticbeasts.htm", "title": "\u00abFantastic Beasts and Where to Find Them (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-74", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=pixar1117.htm", "title": "\u00abCoco\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-75", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=shrek3.htm", "title": "\u00abShrek the Third (2007)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-76", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=harrypotter3.htm", "title": "\u00abHarry Potter and the Prisoner of Azkaban (2004)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-77", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=potc5.htm", "title": "\u00abPirates of the Caribbean 5\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-78", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=et.htm", "title": "\u00abE.T.: The Extra-Terrestrial (1982)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-79", "title": "\u2191"}
+{"link": "https://www.boxofficemojo.com/movies/?id=missionimpossible6.htm", "title": "\u00abMission: Impossible - Fallout\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-80", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=fast6.htm", "title": "\u00abFast & Furious 6 (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-81", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=indianajones4.htm", "title": "\u00abIndiana Jones and the Kingdom of the Crystal Skull (2008)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-82", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=spiderman2.htm", "title": "\u00abSpider-Man 2 (2004)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-83", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=deadpool2016.htm", "title": "\u00abDeadpool (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-84", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=starwars4.htm", "title": "\u00abStar Wars (1977)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-85", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=marvel2014a.htm", "title": "\u00abGuardians of the Galaxy (2014)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-86", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=2012.htm", "title": "\u00ab2012 (2009)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-87", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=maleficient.htm", "title": "\u00abMaleficent (2014)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-88", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=davincicode.htm", "title": "\u00abThe Da Vinci Code (2006)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-89", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=spiderman4.htm", "title": "\u00abThe Amazing Spider-Man (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-90", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=hungergames3.htm", "title": "\u00abThe Hunger Games: Mockingjay - Part 1 (2014)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-shr4_91-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=shrek4.htm", "title": "\u00abShrek Forever After (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-92", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=xmen2014.htm", "title": "\u00abX-Men: Days of Future Past (2014)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-mad3_93-0", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=madagascar3.htm", "title": "\u00abMadagascar 3: Europe's Most Wanted (2012)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-94", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=dc2016.htm", "title": "\u00abSuicide Squad (2016)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-95", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=narnia.htm", "title": "\u00abThe Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-um_96-0", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=monstersinc2.htm", "title": "\u00abMonsters University (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-97", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=matrixreloaded.htm", "title": "\u00abThe Matrix Reloaded (2003)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-up_98-0", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/movies/?id=up.htm", "title": "\u00abUp (2009)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-99", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=foxmarvel18.htm", "title": "\u00abDeadpool 2\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-100", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?id=gravity.htm", "title": "\u00abGravity (2013)\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-101", "title": "\u2191"}
+{"link": "http://boxofficemojo.com/alltime/adjusted.htm?adjust_yr=1910&p=.htm", "title": "Domestic Grosses: Adjusted for Ticket Price Inflation"}
+{"link": "#cite_ref-fallacyfiles_102-0", "title": "a"}
+{"link": "#cite_ref-fallacyfiles_102-1", "title": "b"}
+{"link": "http://www.fallacyfiles.org/archive062006.html#06032006", "title": "Fallacy Files"}
+{"link": "#cite_ref-103", "title": "\u2191"}
+{"link": "http://web.archive.org/web/http://www.usi.edu/business/mbea/2004/MBEA2004Final/movies.doc", "title": "\u00abHow the motion picture industry miscalculates box office receipts\u00bb"}
+{"link": "/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params", "title": "ajuda"}
+{"link": "/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida", "title": "link"}
+{"link": "#cite_ref-waynesthisandthat_104-0", "title": "\u2191"}
+{"link": "http://www.waynesthisandthat.com/mostpopularmovies.html", "title": "\u00abThe 20 Most Popular Movies of all Time\u00bb"}
+{"link": "/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida", "title": "link"}
+{"link": "#cite_ref-105", "title": "\u2191"}
+{"link": "/w/index.php?title=Astrel&action=edit&redlink=1", "title": "Astrel"}
+{"link": "/wiki/International_Standard_Book_Number", "title": "ISBN"}
+{"link": "/wiki/Especial:Fontes_de_livros/978-5-271-36423-5", "title": "978-5-271-36423-5"}
+{"link": "/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida", "title": "link"}
+{"link": "#cite_ref-106", "title": "\u2191"}
+{"link": "/wiki/International_Standard_Book_Number", "title": "ISBN"}
+{"link": "/wiki/Especial:Fontes_de_livros/9781908843708", "title": "9781908843708"}
+{"link": "#cite_ref-107", "title": "\u2191"}
+{"link": "http://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/", "title": "http://www.guinnessworldrecords.com/world-records/highest-box-office-film-gross-inflation-adjusted/"}
+{"link": "#cite_ref-109", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/movies/?page=intl&id=titanic3d.htm", "title": "\u00abTitanic 3D (2012) \u2013 International Box Office results\u00bb"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "#cite_ref-123", "title": "\u2191"}
+{"link": "http://www.bcharts.com.br/forum/topic/3261-as-maiores-bilheterias-do-cinema-na-hist%C3%B3ria-transformers-%C3%BAnico-com-2-filmes-entre-as-10-maiores-bilheterias/", "title": "\u00abAs maiores bilheterias do cinema na historia\u00bb"}
+{"link": "#cite_ref-124", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-218265/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-218265/bilheterias/"}
+{"link": "#cite_ref-125", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/materias-especiais/filmes/arquivo-100182/?page=3&tab=1", "title": "\u00abOs 10 maiores sucessos de bilheteria de Steven Spielberg\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-126", "title": "\u2191"}
+{"link": "http://www1.folha.uol.com.br/ilustrada/2016/04/1759482-os-dez-mandamentos-bate-recorde-de-bilheteria-esgotando-salas-vazias.shtml", "title": "\u00ab"}
+{"link": "/wiki/Folha_de_S._Paulo", "title": "Folha de S. Paulo"}
+{"link": "#cite_ref-127", "title": "\u2191"}
+{"link": "https://oglobo.globo.com/cultura/filmes/sucesso-de-bilheteria-filme-sobre-edir-macedo-tem-salas-vazias-22539322", "title": "\u00abSucesso de bilheteria, filme sobre Edir Macedo tem salas vazias\u00bb"}
+{"link": "/wiki/O_Globo", "title": "O Globo"}
+{"link": "#cite_ref-129", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-251860/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-251860/bilheterias/"}
+{"link": "#cite_ref-adorocinema1_130-0", "title": "a"}
+{"link": "#cite_ref-adorocinema1_130-1", "title": "b"}
+{"link": "http://www.adorocinema.com/filmes/filme-243091/bilheterias/", "title": "\u00abBilheteria de filmes - Os Dez Mandamentos - O Filme\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-ancine2011_131-0", "title": "a"}
+{"link": "#cite_ref-ancine2011_131-1", "title": "b"}
+{"link": "#cite_ref-ancine2011_131-2", "title": "c"}
+{"link": "#cite_ref-ancine2011_131-3", "title": "d"}
+{"link": "#cite_ref-ancine2011_131-4", "title": "e"}
+{"link": "#cite_ref-ancine2011_131-5", "title": "f"}
+{"link": "#cite_ref-ancine2011_131-6", "title": "g"}
+{"link": "#cite_ref-ancine2011_131-7", "title": "h"}
+{"link": "#cite_ref-ancine2011_131-8", "title": "i"}
+{"link": "#cite_ref-ancine2011_131-9", "title": "j"}
+{"link": "#cite_ref-ancine2011_131-10", "title": "k"}
+{"link": "#cite_ref-ancine2011_131-11", "title": "l"}
+{"link": "#cite_ref-ancine2011_131-12", "title": "m"}
+{"link": "#cite_ref-ancine2011_131-13", "title": "n"}
+{"link": "#cite_ref-ancine2011_131-14", "title": "o"}
+{"link": "#cite_ref-ancine2011_131-15", "title": "p"}
+{"link": "#cite_ref-ancine2011_131-16", "title": "q"}
+{"link": "#cite_ref-ancine2011_131-17", "title": "r"}
+{"link": "#cite_ref-ancine2011_131-18", "title": "s"}
+{"link": "#cite_ref-ancine2011_131-19", "title": "t"}
+{"link": "#cite_ref-ancine2011_131-20", "title": "u"}
+{"link": "#cite_ref-ancine2011_131-21", "title": "v"}
+{"link": "#cite_ref-ancine2011_131-22", "title": "w"}
+{"link": "#cite_ref-ancine2011_131-23", "title": "x"}
+{"link": "#cite_ref-ancine2011_131-24", "title": "y"}
+{"link": "#cite_ref-ancine2011_131-25", "title": "z"}
+{"link": "#cite_ref-ancine2011_131-26", "title": "aa"}
+{"link": "#cite_ref-ancine2011_131-27", "title": "ab"}
+{"link": "#cite_ref-ancine2011_131-28", "title": "ac"}
+{"link": "#cite_ref-ancine2011_131-29", "title": "ad"}
+{"link": "#cite_ref-ancine2011_131-30", "title": "ae"}
+{"link": "#cite_ref-ancine2011_131-31", "title": "af"}
+{"link": "#cite_ref-ancine2011_131-32", "title": "ag"}
+{"link": "#cite_ref-ancine2011_131-33", "title": "ah"}
+{"link": "#cite_ref-ancine2011_131-34", "title": "ai"}
+{"link": "#cite_ref-ancine2011_131-35", "title": "aj"}
+{"link": "#cite_ref-ancine2011_131-36", "title": "ak"}
+{"link": "#cite_ref-ancine2011_131-37", "title": "al"}
+{"link": "#cite_ref-ancine2011_131-38", "title": "am"}
+{"link": "#cite_ref-ancine2011_131-39", "title": "an"}
+{"link": "#cite_ref-ancine2011_131-40", "title": "ao"}
+{"link": "https://oca.ancine.gov.br/sites/default/files/cinema/pdf/2105_1.pdf", "title": "\u00abFilmes Brasileiros com Mais de 500 000 Espectadores - 1970 a 2012\u00bb"}
+{"link": "#cite_ref-132", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-130440/bilheterias/", "title": "\u00abBilheterias de filme - Os Vingadores - The Avengers\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-efp104_133-0", "title": "a"}
+{"link": "#cite_ref-efp104_133-1", "title": "b"}
+{"link": "#cite_ref-efp104_133-2", "title": "c"}
+{"link": "#cite_ref-efp104_133-3", "title": "d"}
+{"link": "#cite_ref-efp104_133-4", "title": "e"}
+{"link": "#cite_ref-efp104_133-5", "title": "f"}
+{"link": "#cite_ref-efp104_133-6", "title": "g"}
+{"link": "http://www.ancine.gov.br/media/SAM/2008/teses_monografias/SelonkAleteiaDistribuicao.pdf", "title": "\u00abDistribui\u00e7\u00e3o Cinematogr\u00e1fica no Brasil e Suas Repercuss\u00f5es Pol\u00edticas e Sociais - Um Estudo Comparado da Distribui\u00e7\u00e3o da Cinematografia Nacional e Estrangeira\u00bb"}
+{"link": "#cite_ref-134", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-198488/", "title": "\u00abBilheteria de filmes - Vingadores: Era de Ultron\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-135", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-198750/", "title": "\u00abBilheteria de filmes - Velozes e Furiosos 7\u00bb"}
+{"link": "#cite_ref-136", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-198937/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-198937/bilheterias/"}
+{"link": "#cite_ref-137", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-215143/bilheterias/", "title": "\u00abBilheteria de filmes - Capit\u00e3o Am\u00e9rica: Guerra Civil\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-138", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-182749/bilheterias/", "title": "\u00abBilheteria de filmes - A Saga Crep\u00fasculo: Amanhecer - Parte 2\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-mae_139-0", "title": "a"}
+{"link": "#cite_ref-mae_139-1", "title": "b"}
+{"link": "http://www.adorocinema.com/filmes/filme-223673/bilheterias/", "title": "\u00abBilheteria de filmes - Minha M\u00e3e \u00c9 Uma Pe\u00e7a 2\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-abril2012_140-0", "title": "\u2191"}
+{"link": "http://www.filmeb.com.br/revista/201204.pdf", "title": "\u00abRanking filmes 3D\u00bb"}
+{"link": "#cite_ref-abril2011_141-0", "title": "a"}
+{"link": "#cite_ref-abril2011_141-1", "title": "b"}
+{"link": "http://www.filmeb.com.br/revista/201104.pdf", "title": "\u00abRanking filmes 3D\u00bb"}
+{"link": "#cite_ref-142", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-226447/bilheterias/", "title": "\u00abBilheteria de filmes - Minions\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-143", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-210493/bilheterias/", "title": "\u00abBilheteria de filmes - Minions\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-144", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-181059/bilheterias/", "title": "\u00abBilheteria de filmes - A Era do Gelo 4\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-145", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-126527/bilheterias/", "title": "\u00abBilheteria de filmes - Liga da Justi\u00e7a\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-146", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-219262/bilheterias/", "title": "\u00abBilheteria de filmes - Batman Vs Superman - A Origem da Justi\u00e7a\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-147", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-221541/bilheterias/", "title": "\u00abBilheteria de filmes - Velozes e Furiosos 8\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-148", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-29007/bilheterias/", "title": "\u00abBilheteria de filmes - Homem-Aranha\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-149", "title": "\u2191"}
+{"link": "http:///www.adorocinema.com/filmes/filme-228322/bilheterias/", "title": "\u00abBilheteria de filmes - A Bela e a Fera\u00bb"}
+{"link": "/wiki/Ajuda:Erros_nas_refer%C3%AAncias#bad_url", "title": "ajuda"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-150", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-210222/bilheterias/", "title": "\u00abBilheteria de filmes - Procurando Dory\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-151", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-144185/bilheterias/", "title": "\u00abBilheteria de filmes - Esquadr\u00e3o Suicida\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-152", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-46112/bilheterias/", "title": "\u00abBilheteria de filmes - Homem-Aranha 2\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-153", "title": "\u2191"}
+{"link": "http://epipoca.com.br/filmes_bilheterias.php?idf=25270", "title": "\u00abHomem de Ferro 3\u00bb"}
+{"link": "#cite_ref-154", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-130336/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-130336/bilheterias/"}
+{"link": "#cite_ref-155", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-146214/bilheterias/", "title": "\u00abBilheteria de filmes - A Saga Crep\u00fasculo: Amanhecer - Parte 1\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-156", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-173720/bilheterias/", "title": "\u00abBilheteria de filmes - Mulher-Maravilha\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-157", "title": "\u2191"}
+{"link": "http://epipoca.com.br/filmes_bilheterias.php?idf=25431", "title": "\u00abMeu Malvado Favorito 2\u00bb"}
+{"link": "#cite_ref-abril2010_158-0", "title": "\u2191"}
+{"link": "http://www.filmeb.com.br/revista/201004.pdf", "title": "\u00abRanking de filmes 2000-2009 por p\u00fablico\u00bb"}
+{"link": "#cite_ref-159", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-215097/bilheterias/", "title": "\u00abBilheteria de filmes - Star Wars: O Despertar da For\u00e7a\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-160", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-209778/bilheterias/", "title": "\u00abHomem-Aranha: De Volta ao Lar\u00bb"}
+{"link": "#cite_ref-161", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-205450/bilheterias/", "title": "\u00abBilheterias Cinquenta Tons de Cinza\u00bb"}
+{"link": "#cite_ref-162", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-232132/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-232132/bilheterias/"}
+{"link": "#cite_ref-163", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-225116/bilheterias/", "title": "\u00abBilheteria de filmes - Logan\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-164", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-223252/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-223252/bilheterias/"}
+{"link": "#cite_ref-165", "title": "\u2191"}
+{"link": "http://oca.ancine.gov.br/media/SAM/Informes/2015/IS_S37_10-09-2015_16-09-2015.pdf", "title": "\u00abRanking do Ano - Semana 37 - 10-16/09/2015\u00bb"}
+{"link": "/wiki/Ancine", "title": "Ancine"}
+{"link": "#cite_ref-166", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-218926/bilheterias/", "title": "\u00abBilheteria de filmes - A Culpa \u00e9 das Estrelas\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-167", "title": "\u2191"}
+{"link": "http://180graus.com/cinema/a-era-do-gelo-3-supera-a-bilheteria-de-titanic-no-brasil-234012.html", "title": "\u00abA Era do Gelo 3 supera a bilheteria de Titanic no Brasil\u00bb"}
+{"link": "#cite_ref-168", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=33&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=33&currency=local&p=.htm"}
+{"link": "#cite_ref-169", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=34&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=34&currency=local&p=.htm"}
+{"link": "#cite_ref-170", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=34&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=34&currency=local&p=.htm"}
+{"link": "#cite_ref-171", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2015&wk=27&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2015&wk=27&currency=local&p=.htm"}
+{"link": "#cite_ref-172", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=21&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=21&currency=local&p=.htm"}
+{"link": "#cite_ref-173", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=30&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=30&currency=local&p=.htm"}
+{"link": "#cite_ref-174", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=1&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=1&currency=local&p=.htm"}
+{"link": "#cite_ref-176", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=33&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=33&currency=local&p=.htm"}
+{"link": "#cite_ref-177", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=11&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=11&currency=local&p=.htm"}
+{"link": "#cite_ref-178", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=34&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=34&currency=local&p=.htm"}
+{"link": "#cite_ref-179", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=28&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=28&currency=local&p=.htm"}
+{"link": "#cite_ref-180", "title": "\u2191"}
+{"link": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=15&currency=local&p=.htm", "title": "http://www.boxofficemojo.com/intl/brazil/?yr=2018&wk=15&currency=local&p=.htm"}
+{"link": "#cite_ref-181", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-251860/bilheterias/", "title": "http://www.adorocinema.com/filmes/filme-251860/bilheterias/"}
+{"link": "#cite_ref-filmebcom\u00e9dias_182-0", "title": "\u2191"}
+{"link": "http://www.filmeb.com.br/revista/201304.pdf", "title": "\u00abRanking Com\u00e9dias nacionais (1995-2013) - top 30\u00bb"}
+{"link": "/wiki/Filme_B_(portal)", "title": "Filme B"}
+{"link": "#cite_ref-183", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-215671/bilheterias/", "title": "\u00abBilheteria de filmes - Minha M\u00e3e \u00c9 Uma Pe\u00e7a\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-184", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-217009/bilheterias/", "title": "\u00abBilheteria de filmes - At\u00e9 que a Sorte nos Separe 2\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-185", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-226796/bilheterias/", "title": "\u00abBilheteria de filmes - Loucas Pra Casar\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-ancine2012_186-0", "title": "\u2191"}
+{"link": "#cite_ref-187", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-204056/bilheterias/", "title": "\u00abBilheteria de filmes - At\u00e9 que a Sorte nos Separe\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-188", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-227593/bilheterias/", "title": "\u00abBilheteria de filmes - At\u00e9 que a Sorte nos Separe 3\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-189", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-232639/bilheterias/", "title": "\u00abBilheteria de filmes - Vai Que Cola - O Filme\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-190", "title": "\u2191"}
+{"link": "http://www.adorocinema.com/filmes/filme-217095/bilheterias/", "title": "\u00abBilheteria de filmes - Meu Passado Me Condena\u00bb"}
+{"link": "/wiki/AdoroCinema", "title": "AdoroCinema"}
+{"link": "#cite_ref-191", "title": "\u2191"}
+{"link": "http://www.publico.pt/culturaipsilon/jornal/portugal-ja-tem-rankings-de-filmes-185368", "title": "\u00abPortugal j\u00e1 tem \"rankings\" de filmes\u00bb"}
+{"link": "/wiki/P%C3%BAblico_(jornal)", "title": "P\u00fablico"}
+{"link": "#cite_ref-todos_192-0", "title": "a"}
+{"link": "#cite_ref-todos_192-1", "title": "b"}
+{"link": "https://www.publico.pt/culturaipsilon/noticia/estes-sao-os-20-filmes-portugueses-mais-vistos-nos-ultimos-40-anos-e-o-patio-das-cantigas-esta-no-topo-1705929", "title": "\u00abEstes s\u00e3o os 20 filmes portugueses mais vistos em 40 anos e O P\u00e1tio das Cantigas est\u00e1 no topo\u00bb"}
+{"link": "/wiki/P%C3%BAblico_(jornal)", "title": "P\u00fablico"}
+{"link": "#cite_ref-193", "title": "\u2191"}
+{"link": "http://www.ica-ip.pt/fotos/downloads/ranking_geral_de_filmes_2018_285695b59a027bd8a5.pdf", "title": "\u00abFilmes mais vistos - 2004/2018\u00bb"}
+{"link": "/wiki/Instituto_do_Cinema_e_Audiovisual", "title": "Instituto do Cinema e Audiovisual"}
+{"link": "#cite_ref-194", "title": "\u2191"}
+{"link": "http://www.ica-ip.pt/fotos/downloads/ranking_dos_filmes_nacionais_mais_vistos_2004_2018_144125af41ea5dfce5.pdf", "title": "\u00abFilmes nacionais mais vistos - 2004/2018\u00bb"}
+{"link": "/wiki/Instituto_do_Cinema_e_Audiovisual", "title": "Instituto do Cinema e Audiovisual"}
+{"link": "#cite_ref-195", "title": "\u2191"}
+{"link": "http://www.alea.pt/html/statofic/html/dossier/doc/dossier8.pdf", "title": "\u00abDossier VIII \u2013 N\u00fameros do Cinema\u00bb"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit&section=12", "title": "editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit&section=12", "title": "editar c\u00f3digo-fonte"}
+{"link": "http://www.boxofficemojo.com/alltime/world/", "title": "All Time Worldwide Box Office Grosses"}
+{"link": "/wiki/L%C3%ADngua_inglesa", "title": "ingl\u00eas"}
+{"link": "/wiki/Box_Office_Mojo", "title": "Box Office Mojo"}
+{"link": "http://www.imdb.com/list/ls059930570/", "title": "All Time Worldwide Box Office"}
+{"link": "/wiki/L%C3%ADngua_inglesa", "title": "ingl\u00eas"}
+{"link": "/wiki/Internet_Movie_Database", "title": "Internet Movie Database"}
+{"link": "/wiki/Ficheiro:Applications-multimedia.svg", "title": null}
+{"link": "/wiki/Portal:Cinema", "title": "Portal do cinema"}
+{"link": "https://pt.wikipedia.org/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&oldid=53560656", "title": "https://pt.wikipedia.org/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&oldid=53560656"}
+{"link": "/wiki/Especial:Categorias", "title": "Categorias"}
+{"link": "/wiki/Categoria:Listas_de_bilheteria", "title": "Listas de bilheteria"}
+{"link": "/wiki/Categoria:Cinema", "title": "Cinema"}
+{"link": "/wiki/Categoria:!P%C3%A1ginas_com_erros_em_refer%C3%AAncias", "title": "!P\u00e1ginas com erros em refer\u00eancias"}
+{"link": "/wiki/Categoria:!CS1_ingl%C3%AAs-fontes_em_l%C3%ADngua_(en)", "title": "!CS1 ingl\u00eas-fontes em l\u00edngua (en)"}
+{"link": "/wiki/Categoria:!P%C3%A1ginas_que_usam_refer%C3%AAncias_com_par%C3%A2metros_depreciadas", "title": "!P\u00e1ginas que usam refer\u00eancias com par\u00e2metros depreciadas"}
+{"link": "/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida", "title": "!CS1 manut: L\u00edngua n\u00e3o reconhecida"}
+{"link": "/wiki/Categoria:!CS1_russo-fontes_em_l%C3%ADngua_(ru)", "title": "!CS1 russo-fontes em l\u00edngua (ru)"}
+{"link": "/wiki/Categoria:!P%C3%A1ginas_com_erros_URL", "title": "!P\u00e1ginas com erros URL"}
+{"link": "/wiki/Categoria:!Artigos_com_dados_desatualizados", "title": "!Artigos com dados desatualizados"}
+{"link": "/wiki/Categoria:!P%C3%A1ginas_com_erro_de_uso_da_predefini%C3%A7%C3%A3o_Fmtn", "title": "!P\u00e1ginas com erro de uso da predefini\u00e7\u00e3o Fmtn"}
+{"link": "/wiki/Especial:Minha_discuss%C3%A3o", "title": "Discuss\u00e3o"}
+{"link": "/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es", "title": "Contribui\u00e7\u00f5es"}
+{"link": "/w/index.php?title=Especial:Criar_conta&returnto=Lista+de+filmes+de+maior+bilheteria", "title": "Criar uma conta"}
+{"link": "/w/index.php?title=Especial:Entrar&returnto=Lista+de+filmes+de+maior+bilheteria", "title": "Entrar"}
+{"link": "/wiki/Lista_de_filmes_de_maior_bilheteria", "title": "Artigo"}
+{"link": "/wiki/Discuss%C3%A3o:Lista_de_filmes_de_maior_bilheteria", "title": "Discuss\u00e3o"}
+{"link": "/wiki/Lista_de_filmes_de_maior_bilheteria", "title": "Ler"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&veaction=edit", "title": "Editar"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=edit", "title": "Editar c\u00f3digo-fonte"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=history", "title": "Ver hist\u00f3rico"}
+{"link": "/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal", "title": null}
+{"link": "/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal", "title": "P\u00e1gina principal"}
+{"link": "/wiki/Portal:Conte%C3%BAdo_destacado", "title": "Conte\u00fado destacado"}
+{"link": "/wiki/Portal:Eventos_atuais", "title": "Eventos atuais"}
+{"link": "/wiki/Wikip%C3%A9dia:Esplanada", "title": "Esplanada"}
+{"link": "/wiki/Especial:Aleat%C3%B3ria", "title": "P\u00e1gina aleat\u00f3ria"}
+{"link": "/wiki/Portal:%C3%8Dndice", "title": "Portais"}
+{"link": "/wiki/Wikip%C3%A9dia:Informe_um_erro", "title": "Informar um erro"}
+{"link": "//shop.wikimedia.org", "title": "Loja da Wikip\u00e9dia"}
+{"link": "/wiki/Wikip%C3%A9dia:Boas-vindas", "title": "Boas-vindas"}
+{"link": "/wiki/Ajuda:P%C3%A1gina_principal", "title": "Ajuda"}
+{"link": "/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes", "title": "P\u00e1gina de testes"}
+{"link": "/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio", "title": "Portal comunit\u00e1rio"}
+{"link": "/wiki/Especial:Mudan%C3%A7as_recentes", "title": "Mudan\u00e7as recentes"}
+{"link": "/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o", "title": "Manuten\u00e7\u00e3o"}
+{"link": "/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina", "title": "Criar p\u00e1gina"}
+{"link": "/wiki/Especial:P%C3%A1ginas_novas", "title": "P\u00e1ginas novas"}
+{"link": "/wiki/Wikip%C3%A9dia:Contato", "title": "Contato"}
+{"link": "//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=20120521SB001&uselang=pt", "title": "Donativos"}
+{"link": "/w/index.php?title=Especial:Livro&bookcmd=book_creator&referer=Lista+de+filmes+de+maior+bilheteria", "title": "Criar um livro"}
+{"link": "/w/index.php?title=Especial:ElectronPdf&page=Lista+de+filmes+de+maior+bilheteria&action=show-download-screen", "title": "Descarregar como PDF"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&printable=yes", "title": "Vers\u00e3o para impress\u00e3o"}
+{"link": "/wiki/Especial:P%C3%A1ginas_afluentes/Lista_de_filmes_de_maior_bilheteria", "title": "P\u00e1ginas afluentes"}
+{"link": "/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Lista_de_filmes_de_maior_bilheteria", "title": "Altera\u00e7\u00f5es relacionadas"}
+{"link": "/wiki/Wikipedia:Carregar_ficheiro", "title": "Carregar ficheiro"}
+{"link": "/wiki/Especial:P%C3%A1ginas_especiais", "title": "P\u00e1ginas especiais"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&oldid=53560656", "title": "Hiperliga\u00e7\u00e3o permanente"}
+{"link": "/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&action=info", "title": "Informa\u00e7\u00f5es da p\u00e1gina"}
+{"link": "https://www.wikidata.org/wiki/Special:EntityPage/Q392108", "title": "Elemento Wikidata"}
+{"link": "/w/index.php?title=Especial:Citar&page=Lista_de_filmes_de_maior_bilheteria&id=53560656", "title": "Citar esta p\u00e1gina"}
+{"link": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A3%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85_%D8%AF%D8%AE%D9%84%D8%A7", "title": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"}
+{"link": "https://ca.wikipedia.org/wiki/Llista_de_les_pel%C2%B7l%C3%ADcules_m%C3%A9s_taquilleres", "title": "Catal\u00e0"}
+{"link": "https://ckb.wikipedia.org/wiki/%D9%BE%DB%8E%D8%B1%D8%B3%D8%AA%DB%8C_%D9%BE%DA%95%D8%AF%D8%A7%DA%BE%D8%A7%D8%AA%D8%AA%D8%B1%DB%8C%D9%86_%D9%81%DB%8C%D9%84%D9%85%DB%95%DA%A9%D8%A7%D9%86", "title": "\u06a9\u0648\u0631\u062f\u06cc"}
+{"link": "https://cs.wikipedia.org/wiki/Seznam_nejv%C3%BDd%C4%9Ble%C4%8Dn%C4%9Bj%C5%A1%C3%ADch_film%C5%AF", "title": "\u010ce\u0161tina"}
+{"link": "https://de.wikipedia.org/wiki/Liste_erfolgreicher_Filme", "title": "Deutsch"}
+{"link": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films", "title": "English"}
+{"link": "https://es.wikipedia.org/wiki/Anexo:Pel%C3%ADculas_con_las_mayores_recaudaciones", "title": "Espa\u00f1ol"}
+{"link": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%BE%D8%B1%D9%81%D8%B1%D9%88%D8%B4%E2%80%8C%D8%AA%D8%B1%DB%8C%D9%86_%D9%81%DB%8C%D9%84%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE_%D8%AC%D9%87%D8%A7%D9%86", "title": "\u0641\u0627\u0631\u0633\u06cc"}
+{"link": "https://fi.wikipedia.org/wiki/Luettelo_eniten_tuottaneista_elokuvista", "title": "Suomi"}
+{"link": "https://fr.wikipedia.org/wiki/Liste_des_plus_gros_succ%C3%A8s_du_box-office_mondial", "title": "Fran\u00e7ais"}
+{"link": "https://ga.wikipedia.org/wiki/Na_scann%C3%A1in_is_m%C3%B3_a_thug_airgead_isteach", "title": "Gaeilge"}
+{"link": "https://gl.wikipedia.org/wiki/Lista_de_filmes_coas_maiores_recadaci%C3%B3ns", "title": "Galego"}
+{"link": "https://hr.wikipedia.org/wiki/Popis_filmova_s_najve%C4%87om_zaradom", "title": "Hrvatski"}
+{"link": "https://hy.wikipedia.org/wiki/%D4%B1%D5%B4%D5%A5%D5%B6%D5%A1%D5%B7%D5%A1%D5%B0%D5%B8%D6%82%D5%A9%D5%A1%D5%A2%D5%A5%D6%80_%D6%86%D5%AB%D5%AC%D5%B4%D5%A5%D6%80%D5%AB_%D6%81%D5%A1%D5%B6%D5%AF", "title": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576"}
+{"link": "https://id.wikipedia.org/wiki/Daftar_film_dengan_penghasilan_kotor_tertinggi", "title": "Bahasa Indonesia"}
+{"link": "https://it.wikipedia.org/wiki/Film_con_maggiori_incassi_nella_storia_del_cinema", "title": "Italiano"}
+{"link": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%AD%B4%E4%BB%A3%E8%88%88%E8%A1%8C%E5%8F%8E%E5%85%A5%E4%B8%8A%E4%BD%8D%E3%81%AE%E6%98%A0%E7%94%BB%E4%B8%80%E8%A6%A7", "title": "\u65e5\u672c\u8a9e"}
+{"link": "https://ka.wikipedia.org/wiki/%E1%83%A7%E1%83%95%E1%83%94%E1%83%9A%E1%83%90%E1%83%96%E1%83%94_%E1%83%A8%E1%83%94%E1%83%9B%E1%83%9D%E1%83%A1%E1%83%90%E1%83%95%E1%83%9A%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%A4%E1%83%98%E1%83%9A%E1%83%9B%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%98%E1%83%90", "title": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"}
+{"link": "https://ko.wikipedia.org/wiki/%EC%98%81%ED%99%94_%EB%A7%A4%EC%B6%9C_%EC%88%9C%EC%9C%84_%EB%AA%A9%EB%A1%9D", "title": "\ud55c\uad6d\uc5b4"}
+{"link": "https://lv.wikipedia.org/wiki/Visu_laiku_ienes%C4%ABg%C4%81k%C4%81s_filmas", "title": "Latvie\u0161u"}
+{"link": "https://nl.wikipedia.org/wiki/Lijst_van_succesvolste_films", "title": "Nederlands"}
+{"link": "https://no.wikipedia.org/wiki/Liste_over_mest_innbringende_filmer", "title": "Norsk"}
+{"link": "https://pl.wikipedia.org/wiki/Lista_najbardziej_dochodowych_film%C3%B3w", "title": "Polski"}
+{"link": "https://ro.wikipedia.org/wiki/Lista_filmelor_cu_cele_mai_mari_%C3%AEncas%C4%83ri", "title": "Rom\u00e2n\u0103"}
+{"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D0%B0%D0%BC%D1%8B%D1%85_%D0%BA%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D1%85_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2", "title": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"}
+{"link": "https://sco.wikipedia.org/wiki/Leet_o_heichest-grossin_films", "title": "Scots"}
+{"link": "https://sh.wikipedia.org/wiki/Popis_najkomercijalnijih_filmova", "title": "Srpskohrvatski / \u0441\u0440\u043f\u0441\u043a\u043e\u0445\u0440\u0432\u0430\u0442\u0441\u043a\u0438"}
+{"link": "https://sq.wikipedia.org/wiki/Lista_e_filmave_m%C3%AB_t%C3%AB_suksessh%C3%ABm", "title": "Shqip"}
+{"link": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_mest_inkomstbringande_filmer", "title": "Svenska"}
+{"link": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94", "title": "\u0e44\u0e17\u0e22"}
+{"link": "https://tr.wikipedia.org/wiki/En_y%C3%BCksek_has%C4%B1lat%C4%B1_yapan_filmler_listesi", "title": "T\u00fcrk\u00e7e"}
+{"link": "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B9%D0%BA%D0%B0%D1%81%D0%BE%D0%B2%D1%96%D1%88%D0%B8%D1%85_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%96%D0%B2", "title": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"}
+{"link": "https://uz.wikipedia.org/wiki/Eng_kassabop_filmlar_ro%CA%BByxati", "title": "O\u02bbzbekcha/\u045e\u0437\u0431\u0435\u043a\u0447\u0430"}
+{"link": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_c%C3%B3_doanh_thu_cao_nh%E1%BA%A5t", "title": "Ti\u1ebfng Vi\u1ec7t"}
+{"link": "https://zh.wikipedia.org/wiki/%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E9%9B%BB%E5%BD%B1%E7%A5%A8%E6%88%BF", "title": "\u4e2d\u6587"}
+{"link": "https://www.wikidata.org/wiki/Special:EntityPage/Q392108#sitelinks-wikipedia", "title": "Editar hiperliga\u00e7\u00f5es"}
+{"link": "https://creativecommons.org/licenses/by-sa/3.0/deed.pt", "title": "Atribui\u00e7\u00e3o-CompartilhaIgual 3.0 N\u00e3o Adaptada (CC BY-SA 3.0) da Creative Commons"}
+{"link": "https://foundation.wikimedia.org/wiki/Condi\u00e7\u00f5es_de_Uso", "title": "condi\u00e7\u00f5es de utiliza\u00e7\u00e3o"}
+{"link": "https://meta.wikimedia.org/wiki/Privacy_policy/pt-br", "title": "Pol\u00edtica de privacidade"}
+{"link": "/wiki/Wikip%C3%A9dia:Sobre", "title": "Sobre a Wikip\u00e9dia"}
+{"link": "/wiki/Wikip%C3%A9dia:Aviso_geral", "title": "Avisos gerais"}
+{"link": "https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute", "title": "Programadores"}
+{"link": "https://foundation.wikimedia.org/wiki/Cookie_statement", "title": "Declara\u00e7\u00e3o sobre ''cookies''"}
+{"link": "//pt.m.wikipedia.org/w/index.php?title=Lista_de_filmes_de_maior_bilheteria&mobileaction=toggle_view_mobile", "title": "Vers\u00e3o m\u00f3vel"}
+{"link": "https://wikimediafoundation.org/", "title": null}
+{"link": "//www.mediawiki.org/", "title": null}
